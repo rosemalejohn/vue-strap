@@ -2277,7 +2277,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Accordion.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Accordion.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -2288,9 +2288,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-d4b75a92", __vue_options__)
+	    hotAPI.createRecord("data-v-795ef816", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-d4b75a92", __vue_options__)
+	    hotAPI.reload("data-v-795ef816", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Accordion.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -2345,15 +2345,15 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 70 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    staticClass: "panel-group"
-	  }, [_vm._t("default")])
+	  }, [_vm._t("default")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-d4b75a92", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-795ef816", module.exports)
 	  }
 	}
 
@@ -2380,7 +2380,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Affix.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Affix.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -2391,9 +2391,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-5ebddebf", __vue_options__)
+	    hotAPI.createRecord("data-v-0e405efd", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-5ebddebf", __vue_options__)
+	    hotAPI.reload("data-v-0e405efd", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Affix.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -2486,10 +2486,10 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 73 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    staticClass: "hidden-print hidden-xs hidden-sm"
-	  }, [_vm._h('nav', {
+	  }, [_c('nav', {
 	    directives: [{
 	      name: "scroll",
 	      rawName: "v-scroll",
@@ -2503,12 +2503,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	    style: ({
 	      marginTop: _vm.top
 	    })
-	  }, [_vm._t("default")])])
+	  }, [_vm._t("default")], true)])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-5ebddebf", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-0e405efd", module.exports)
 	  }
 	}
 
@@ -2538,7 +2538,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Alert.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Alert.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -2549,9 +2549,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-af7c1f6a", __vue_options__)
+	    hotAPI.createRecord("data-v-57c47089", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-af7c1f6a", __vue_options__)
+	    hotAPI.reload("data-v-57c47089", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Alert.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -2575,8 +2575,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-af7c1f6a!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Alert.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-af7c1f6a!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Alert.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-57c47089!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Alert.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-57c47089!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Alert.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -2945,12 +2945,12 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 80 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('transition', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('transition', {
 	    attrs: {
 	      "name": "fade"
 	    }
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -2964,7 +2964,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    attrs: {
 	      "role": "alert"
 	    }
-	  }, [_vm._h('button', {
+	  }, [_c('button', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -2980,12 +2980,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.val = false
 	      }
 	    }
-	  }, [_vm._h('span', ["×"])]), " ", _vm._t("default")])])
+	  }, [_c('span', [_vm._v("×")])]), _vm._v(" "), _vm._t("default")], true)])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-af7c1f6a", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-57c47089", module.exports)
 	  }
 	}
 
@@ -3015,7 +3015,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Aside.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Aside.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -3026,9 +3026,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-3a4bde27", __vue_options__)
+	    hotAPI.createRecord("data-v-2c634336", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-3a4bde27", __vue_options__)
+	    hotAPI.reload("data-v-2c634336", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Aside.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -3052,8 +3052,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-3a4bde27!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Aside.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-3a4bde27!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Aside.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-2c634336!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Aside.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-2c634336!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Aside.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -3194,24 +3194,24 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 85 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('transition', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('transition', {
 	    attrs: {
 	      "name": 'side' + this.placement
 	    }
-	  }, [(_vm.show) ? _vm._h('div', {
+	  }, [(_vm.show) ? _c('div', {
 	    staticClass: "aside",
 	    class: _vm.placement,
 	    style: ({
 	      width: _vm.width + 'px'
 	    })
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "aside-dialog"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "aside-content"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "aside-header"
-	  }, [_vm._h('button', {
+	  }, [_c('button', {
 	    staticClass: "close",
 	    attrs: {
 	      "type": "button"
@@ -3219,16 +3219,16 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.trigger_close
 	    }
-	  }, [_vm._h('span', ["×"])]), " ", _vm._h('h4', {
+	  }, [_c('span', [_vm._v("×")])]), _vm._v(" "), _c('h4', {
 	    staticClass: "aside-title"
-	  }, [_vm._t("header", [_vm._s(_vm.header)])])]), " ", _vm._h('div', {
+	  }, [_vm._t("header", [_vm._v(_vm._s(_vm.header))])], true)]), _vm._v(" "), _c('div', {
 	    staticClass: "aside-body"
-	  }, [_vm._t("default")])])])]) : _vm._e()])
+	  }, [_vm._t("default")], true)])])]) : _vm._e()])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-3a4bde27", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-2c634336", module.exports)
 	  }
 	}
 
@@ -3255,7 +3255,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\ButtonGroup.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\ButtonGroup.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -3266,9 +3266,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-125eb0c8", __vue_options__)
+	    hotAPI.createRecord("data-v-6a35815a", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-125eb0c8", __vue_options__)
+	    hotAPI.reload("data-v-6a35815a", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] ButtonGroup.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -3318,20 +3318,20 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 88 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    class: {
 	      'btn-group': _vm.buttons, 'btn-group-justified': _vm.justified, 'btn-group-vertical': _vm.vertical
 	    },
 	    attrs: {
 	      "data-toggle": _vm.buttons && 'buttons'
 	    }
-	  }, [_vm._t("default")])
+	  }, [_vm._t("default")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-125eb0c8", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-6a35815a", module.exports)
 	  }
 	}
 
@@ -3361,10 +3361,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Carousel.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Carousel.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-	__vue_options__._scopeId = "data-v-322dee41"
+	__vue_options__._scopeId = "data-v-75b79d43"
 	
 	/* hot reload */
 	if (false) {(function () {
@@ -3373,9 +3373,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-322dee41", __vue_options__)
+	    hotAPI.createRecord("data-v-75b79d43", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-322dee41", __vue_options__)
+	    hotAPI.reload("data-v-75b79d43", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Carousel.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -3399,8 +3399,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-322dee41&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Carousel.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-322dee41&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Carousel.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-75b79d43&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Carousel.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-75b79d43&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Carousel.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -3418,7 +3418,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	
 	// module
-	exports.push([module.id, "\n.carousel-control[data-v-322dee41] {\r\n  cursor: pointer;\n}\r\n", "", {"version":3,"sources":["/./src/Carousel.vue?18a01e4d"],"names":[],"mappings":";AA4GA;EACA,gBAAA;CACA","file":"Carousel.vue","sourcesContent":["<template>\r\n<div class=\"carousel slide\" data-ride=\"carousel\">\r\n  <!-- Indicators -->\r\n  <ol class=\"carousel-indicators\" v-show=\"indicators\">\r\n    <li v-for=\"(indicator,i) in indicator_list\" @click=\"indicatorClick(i)\" :class=\"{active:i === index}\"><span></span></li>\r\n  </ol>\r\n  <!-- Wrapper for slides -->\r\n  <div class=\"carousel-inner\" role=\"listbox\">\r\n    <slot></slot>\r\n  </div>\r\n  <!-- Controls -->\r\n  <div v-show=\"controls\" class=\"carousel-controls hidden-xs\">\r\n    <a class=\"left carousel-control\" role=\"button\" @click=\"prev\">\r\n      <span class=\"glyphicon glyphicon-chevron-left\" aria-hidden=\"true\"></span>\r\n    </a>\r\n    <a class=\"right carousel-control\" role=\"button\" @click=\"next\">\r\n      <span class=\"glyphicon glyphicon-chevron-right\" aria-hidden=\"true\"></span>\r\n    </a>\r\n  </div>\r\n</div>\r\n</template>\r\n\r\n<script>\r\nimport $ from './utils/NodeList.js'\r\n// let coerce = {\r\n//   interval: 'number'\r\n// }\r\n\r\nexport default {\r\n  props: {\r\n    indicators: {\r\n      type: Boolean,\r\n      default: true\r\n    },\r\n    controls: {\r\n      type: Boolean,\r\n      default: true\r\n    },\r\n    interval: {\r\n      type: Number,\r\n      default: 5000\r\n    }\r\n  },\r\n  data () {\r\n    return {\r\n      indicator_list: [],\r\n      index: 0,\r\n      isAnimating: false\r\n    }\r\n  },\r\n  watch: {\r\n    index(newVal, oldVal) {\r\n      this.slide(newVal > oldVal ? 'left' : 'right', newVal, oldVal)\r\n    }\r\n  },\r\n  methods: {\r\n    indicatorClick(index) {\r\n      if (this.isAnimating || this.index === index) return false\r\n      this.isAnimating = true\r\n      this.index = index\r\n    },\r\n    slide (direction, next, prev) {\r\n      if (!this.$el) { return }\r\n      const $slider = $('.item', this.$el)\r\n      if (!$slider.length) { return }\r\n      const selected = $slider[next] || $slider[0]\r\n      $(selected).addClass(direction === 'left' ? 'next' : 'prev')\r\n      // request property that requires layout to force a layout\r\n      var x = selected.clientHeight\r\n      $([$slider[prev], selected]).addClass(direction).on('transitionend', () => {\r\n        $slider.off('transitionend').className = 'item'\r\n        $(selected).addClass('active')\r\n        this.isAnimating = false\r\n      })\r\n    },\r\n    next() {\r\n      if (!this.$el || this.isAnimating) { return false }\r\n      this.isAnimating = true\r\n      this.index + 1 < $('.item', this.$el).length ? this.index += 1 : this.index = 0\r\n    },\r\n    prev() {\r\n      if (!this.$el || this.isAnimating) { return false }\r\n      this.isAnimating = true\r\n      this.index === 0 ? this.index = $('.item', this.$el).length - 1 : this.index -= 1\r\n    },\r\n    toggleInterval (val) {\r\n      if (val === undefined) { val = this._intervalID }\r\n      if(this._intervalID) {\r\n        clearInterval(this._intervalID)\r\n        delete this._intervalID\r\n      }\r\n      if(val && this.interval > 0) {\r\n        this._intervalID = setInterval(this.next, this.interval)\r\n      }\r\n    }\r\n  },\r\n  mounted () {\r\n    this.toggleInterval(true)\r\n    $(this.$el).on('mouseenter', () => this.toggleInterval(false)).on('mouseleave', () => this.toggleInterval(true))\r\n  },\r\n  beforeDestroy () {\r\n    this.toggleInterval(false)\r\n    $(this.$el).off('mouseenter mouseleave')\r\n  }\r\n}\r\n</script>\r\n\r\n<style scoped>\r\n.carousel-control {\r\n  cursor: pointer;\r\n}\r\n</style>\r\n"],"sourceRoot":"webpack://"}]);
+	exports.push([module.id, "\n.carousel-control[data-v-75b79d43] {\r\n  cursor: pointer;\n}\r\n", "", {"version":3,"sources":["/./src/Carousel.vue?18a01e4d"],"names":[],"mappings":";AA4GA;EACA,gBAAA;CACA","file":"Carousel.vue","sourcesContent":["<template>\r\n<div class=\"carousel slide\" data-ride=\"carousel\">\r\n  <!-- Indicators -->\r\n  <ol class=\"carousel-indicators\" v-show=\"indicators\">\r\n    <li v-for=\"(indicator,i) in indicator_list\" @click=\"indicatorClick(i)\" :class=\"{active:i === index}\"><span></span></li>\r\n  </ol>\r\n  <!-- Wrapper for slides -->\r\n  <div class=\"carousel-inner\" role=\"listbox\">\r\n    <slot></slot>\r\n  </div>\r\n  <!-- Controls -->\r\n  <div v-show=\"controls\" class=\"carousel-controls hidden-xs\">\r\n    <a class=\"left carousel-control\" role=\"button\" @click=\"prev\">\r\n      <span class=\"glyphicon glyphicon-chevron-left\" aria-hidden=\"true\"></span>\r\n    </a>\r\n    <a class=\"right carousel-control\" role=\"button\" @click=\"next\">\r\n      <span class=\"glyphicon glyphicon-chevron-right\" aria-hidden=\"true\"></span>\r\n    </a>\r\n  </div>\r\n</div>\r\n</template>\r\n\r\n<script>\r\nimport $ from './utils/NodeList.js'\r\n// let coerce = {\r\n//   interval: 'number'\r\n// }\r\n\r\nexport default {\r\n  props: {\r\n    indicators: {\r\n      type: Boolean,\r\n      default: true\r\n    },\r\n    controls: {\r\n      type: Boolean,\r\n      default: true\r\n    },\r\n    interval: {\r\n      type: Number,\r\n      default: 5000\r\n    }\r\n  },\r\n  data () {\r\n    return {\r\n      indicator_list: [],\r\n      index: 0,\r\n      isAnimating: false\r\n    }\r\n  },\r\n  watch: {\r\n    index(newVal, oldVal) {\r\n      this.slide(newVal > oldVal ? 'left' : 'right', newVal, oldVal)\r\n    }\r\n  },\r\n  methods: {\r\n    indicatorClick(index) {\r\n      if (this.isAnimating || this.index === index) return false\r\n      this.isAnimating = true\r\n      this.index = index\r\n    },\r\n    slide (direction, next, prev) {\r\n      if (!this.$el) { return }\r\n      const $slider = $('.item', this.$el)\r\n      if (!$slider.length) { return }\r\n      const selected = $slider[next] || $slider[0]\r\n      $(selected).addClass(direction === 'left' ? 'next' : 'prev')\r\n      // request property that requires layout to force a layout\r\n      var x = selected.clientHeight\r\n      $([$slider[prev], selected]).addClass(direction).on('transitionend', () => {\r\n        $slider.off('transitionend').className = 'item'\r\n        $(selected).addClass('active')\r\n        this.isAnimating = false\r\n      })\r\n    },\r\n    next() {\r\n      if (!this.$el || this.isAnimating) { return false }\r\n      this.isAnimating = true\r\n      this.index + 1 < $('.item', this.$el).length ? this.index += 1 : this.index = 0\r\n    },\r\n    prev() {\r\n      if (!this.$el || this.isAnimating) { return false }\r\n      this.isAnimating = true\r\n      this.index === 0 ? this.index = $('.item', this.$el).length - 1 : this.index -= 1\r\n    },\r\n    toggleInterval (val) {\r\n      if (val === undefined) { val = this._intervalID }\r\n      if(this._intervalID) {\r\n        clearInterval(this._intervalID)\r\n        delete this._intervalID\r\n      }\r\n      if(val && this.interval > 0) {\r\n        this._intervalID = setInterval(this.next, this.interval)\r\n      }\r\n    }\r\n  },\r\n  mounted () {\r\n    this.toggleInterval(true)\r\n    $(this.$el).on('mouseenter', () => this.toggleInterval(false)).on('mouseleave', () => this.toggleInterval(true))\r\n  },\r\n  beforeDestroy () {\r\n    this.toggleInterval(false)\r\n    $(this.$el).off('mouseenter mouseleave')\r\n  }\r\n}\r\n</script>\r\n\r\n<style scoped>\r\n.carousel-control {\r\n  cursor: pointer;\r\n}\r\n</style>\r\n"],"sourceRoot":"webpack://"}]);
 	
 	// exports
 
@@ -3565,13 +3565,13 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 93 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    staticClass: "carousel slide",
 	    attrs: {
 	      "data-ride": "carousel"
 	    }
-	  }, [_vm._h('ol', {
+	  }, [_c('ol', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -3579,8 +3579,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	      expression: "indicators"
 	    }],
 	    staticClass: "carousel-indicators"
-	  }, [_vm._l((_vm.indicator_list), function(indicator, i) {
-	    return _vm._h('li', {
+	  }, _vm._l((_vm.indicator_list), function(indicator, i) {
+	    return _c('li', {
 	      class: {
 	        active: i === _vm.index
 	      },
@@ -3589,13 +3589,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	          _vm.indicatorClick(i)
 	        }
 	      }
-	    }, [_vm._h('span')])
-	  })]), " ", " ", _vm._h('div', {
+	    }, [_c('span')])
+	  })), _vm._v(" "), _vm._v(" "), _c('div', {
 	    staticClass: "carousel-inner",
 	    attrs: {
 	      "role": "listbox"
 	    }
-	  }, [_vm._t("default")]), " ", " ", _vm._h('div', {
+	  }, [_vm._t("default")], true), _vm._v(" "), _vm._v(" "), _c('div', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -3603,7 +3603,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	      expression: "controls"
 	    }],
 	    staticClass: "carousel-controls hidden-xs"
-	  }, [_vm._h('a', {
+	  }, [_c('a', {
 	    staticClass: "left carousel-control",
 	    attrs: {
 	      "role": "button"
@@ -3611,12 +3611,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.prev
 	    }
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    staticClass: "glyphicon glyphicon-chevron-left",
 	    attrs: {
 	      "aria-hidden": "true"
 	    }
-	  })]), " ", _vm._h('a', {
+	  })]), _vm._v(" "), _c('a', {
 	    staticClass: "right carousel-control",
 	    attrs: {
 	      "role": "button"
@@ -3624,7 +3624,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.next
 	    }
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    staticClass: "glyphicon glyphicon-chevron-right",
 	    attrs: {
 	      "aria-hidden": "true"
@@ -3634,7 +3634,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-322dee41", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-75b79d43", module.exports)
 	  }
 	}
 
@@ -3664,10 +3664,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Checkbox.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Checkbox.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-	__vue_options__._scopeId = "data-v-6922bf24"
+	__vue_options__._scopeId = "data-v-a6a723b4"
 	
 	/* hot reload */
 	if (false) {(function () {
@@ -3676,9 +3676,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-6922bf24", __vue_options__)
+	    hotAPI.createRecord("data-v-a6a723b4", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-6922bf24", __vue_options__)
+	    hotAPI.reload("data-v-a6a723b4", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Checkbox.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -3702,8 +3702,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-6922bf24&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Checkbox.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-6922bf24&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Checkbox.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-a6a723b4&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Checkbox.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-a6a723b4&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Checkbox.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -3721,7 +3721,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	
 	// module
-	exports.push([module.id, "\nlabel.checkbox[data-v-6922bf24] {\r\n  position: relative;\r\n  padding-left: 18px;\n}\nlabel.checkbox > input[data-v-6922bf24] {\r\n  box-sizing: border-box;\r\n  position: absolute;\r\n  z-index: -1;\r\n  padding: 0;\r\n  opacity: 0;\r\n  margin: 0;\n}\nlabel.checkbox > .icon[data-v-6922bf24] {\r\n  position: absolute;\r\n  top: .2rem;\r\n  left: 0;\r\n  display: block;\r\n  width: 1.4rem;\r\n  height: 1.4rem;\r\n  line-height:1rem;\r\n  text-align: center;\r\n  user-select: none;\r\n  border-radius: .35rem;\r\n  background-repeat: no-repeat;\r\n  background-position: center center;\r\n  background-size: 50% 50%;\n}\nlabel.checkbox:not(.active) > .icon[data-v-6922bf24] {\r\n  background-color: #ddd;\r\n  border: 1px solid #bbb;\n}\nlabel.checkbox > input:focus ~ .icon[data-v-6922bf24] {\r\n  outline: 0;\r\n  border: 1px solid #66afe9;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);\n}\nlabel.checkbox.active > .icon[data-v-6922bf24] {\r\n  background-size: 1rem 1rem;\r\n  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNyIgaGVpZ2h0PSI3Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNS43MywwLjUybC0zLjEyNDIyLDMuMzQxNjFsLTEuMzM4OTUsLTEuNDMyMTJsLTEuMjQ5NjksMS4zMzY2NWwyLjU4ODYzLDIuNzY4NzZsNC4zNzM5LC00LjY3ODI2bC0xLjI0OTY5LC0xLjMzNjY1bDAsMGwwLjAwMDAyLDAuMDAwMDF6Ii8+PC9zdmc+);\n}\nlabel.checkbox.active .btn-default[data-v-6922bf24] { filter: brightness(75%);\n}\nlabel.checkbox.disabled[data-v-6922bf24],\r\nlabel.checkbox.readonly[data-v-6922bf24],\r\n.btn.readonly[data-v-6922bf24] {\r\n  filter: alpha(opacity=65);\r\n  box-shadow: none;\r\n  opacity: .65;\n}\nlabel.btn > input[type=checkbox][data-v-6922bf24] {\r\n  position: absolute;\r\n  clip: rect(0,0,0,0);\r\n  pointer-events: none;\n}\r\n", "", {"version":3,"sources":["/./src/Checkbox.vue?1c04410b"],"names":[],"mappings":";AAyFA;EACA,mBAAA;EACA,mBAAA;CACA;AACA;EACA,uBAAA;EACA,mBAAA;EACA,YAAA;EACA,WAAA;EACA,WAAA;EACA,UAAA;CACA;AACA;EACA,mBAAA;EACA,WAAA;EACA,QAAA;EACA,eAAA;EACA,cAAA;EACA,eAAA;EACA,iBAAA;EACA,mBAAA;EACA,kBAAA;EACA,sBAAA;EACA,6BAAA;EACA,mCAAA;EACA,yBAAA;CACA;AACA;EACA,uBAAA;EACA,uBAAA;CACA;AACA;EACA,WAAA;EACA,0BAAA;EACA,0EAAA;CACA;AACA;EACA,2BAAA;EACA,kZAAA;CACA;AACA,sDAAA,wBAAA;CAAA;AAEA;;;EAGA,0BAAA;EACA,iBAAA;EACA,aAAA;CACA;AACA;EACA,mBAAA;EACA,oBAAA;EACA,qBAAA;CACA","file":"Checkbox.vue","sourcesContent":["<template>\r\n  <a :is=\"isButton?'a':'label'\" @click=\"toggle\" :class=\"[isButton?'btn btn-'+typeColor:'open checkbox '+typeColor,{active:checked,disabled:disabled,readonly:readonly}]\">\r\n    <input v-if=\"name\" type=\"hidden\" :name=\"name\" :value=\"checked?trueValue:falseValue\" />\r\n    <span v-if=\"!isButton\" class=\"icon dropdown-toggle\" :class=\"[checked?'btn-'+typeColor:'',{bg:typeColor==='default'}]\"></span>\r\n    <span v-if=\"!isButton&&checked&&typeColor==='default'\" class=\"icon\"></span>\r\n    <slot></slot>\r\n  </a>\r\n</template>\r\n\r\n<script>\r\nexport default {\r\n  props: {\r\n    button: {type: Boolean, default: false},\r\n    disabled: {type: Boolean, default: false},\r\n    falseValue: {default: false},\r\n    name: {type: String, default: null},\r\n    readonly: {type: Boolean, default: false},\r\n    trueValue: {default: true},\r\n    type: {type: String, default: null},\r\n    value: {default: false}\r\n  },\r\n  data () {\r\n    return {\r\n      checked: (this.value === this.trueValue)\r\n    }\r\n  },\r\n  computed: {\r\n    isButton () { return this.button || (this._inGroup && this.$parent.buttons) },\r\n    isFalse () { return this.value === this.falseValue },\r\n    isTrue () { return this.value === this.trueValue },\r\n    parentValue () { return this._ingroup && this.$parent.val },\r\n    typeColor () { return (this.type || (this.$parent && this.$parent.type)) || 'default' }\r\n  },\r\n  watch: {\r\n    checked (val, old) {\r\n      var value = val ? this.trueValue : this.falseValue\r\n      this.$emit('checked', val)\r\n      this.$emit('input', value)\r\n      this.eval()\r\n    },\r\n    parentValue (val) {\r\n      var checked = val === this.trueValue\r\n      if (this.checked !== checked) {\r\n        this.checked = checked\r\n      }\r\n    },\r\n    value (val, old) {\r\n      var checked = val === this.trueValue\r\n      if (this.checked !== checked) {\r\n        this.checked = checked\r\n      }\r\n    }\r\n  },\r\n  created () {\r\n    const parent = this.$parent\r\n    if (parent && parent._btnGroup && !parent._radioGroup) {\r\n      this._inGroup = true\r\n      parent._checkboxGroup = true\r\n      if (!(parent.val instanceof Array)) { parent.val = [] }\r\n      this.eval()\r\n    }\r\n  },\r\n  mounted () {\r\n    if (!this.$parent._checkboxGroup || typeof this.value === 'boolean') { return }\r\n    if (this.$parent.val.length) {\r\n      // this.checked = ~this.$parent.val.indexOf(this.value)\r\n      this.$emit('checked', ~this.$parent.val.indexOf(this.value))\r\n    } else if (this.checked) {\r\n      this.$parent.val.push(this.value)\r\n    }\r\n  },\r\n  methods: {\r\n    eval () {\r\n      if (this._inGroup) {\r\n        var value = this.checked ? this.isTrue : this.isFalse\r\n        var index = this.$parent.val.indexOf(value)\r\n        if (this.checked && !~index) this.$parent.val.push(value)\r\n        if (!this.checked && ~index) this.$parent.val.splice(index, 1)\r\n      }\r\n    },\r\n    toggle () {\r\n      if (this.disabled || this.readonly) { return }\r\n      this.checked = !this.checked\r\n    }\r\n  }\r\n}\r\n</script>\r\n\r\n<style scoped>\r\nlabel.checkbox {\r\n  position: relative;\r\n  padding-left: 18px;\r\n}\r\nlabel.checkbox > input {\r\n  box-sizing: border-box;\r\n  position: absolute;\r\n  z-index: -1;\r\n  padding: 0;\r\n  opacity: 0;\r\n  margin: 0;\r\n}\r\nlabel.checkbox > .icon {\r\n  position: absolute;\r\n  top: .2rem;\r\n  left: 0;\r\n  display: block;\r\n  width: 1.4rem;\r\n  height: 1.4rem;\r\n  line-height:1rem;\r\n  text-align: center;\r\n  user-select: none;\r\n  border-radius: .35rem;\r\n  background-repeat: no-repeat;\r\n  background-position: center center;\r\n  background-size: 50% 50%;\r\n}\r\nlabel.checkbox:not(.active) > .icon {\r\n  background-color: #ddd;\r\n  border: 1px solid #bbb;\r\n}\r\nlabel.checkbox > input:focus ~ .icon {\r\n  outline: 0;\r\n  border: 1px solid #66afe9;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);\r\n}\r\nlabel.checkbox.active > .icon {\r\n  background-size: 1rem 1rem;\r\n  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNyIgaGVpZ2h0PSI3Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNS43MywwLjUybC0zLjEyNDIyLDMuMzQxNjFsLTEuMzM4OTUsLTEuNDMyMTJsLTEuMjQ5NjksMS4zMzY2NWwyLjU4ODYzLDIuNzY4NzZsNC4zNzM5LC00LjY3ODI2bC0xLjI0OTY5LC0xLjMzNjY1bDAsMGwwLjAwMDAyLDAuMDAwMDF6Ii8+PC9zdmc+);\r\n}\r\nlabel.checkbox.active .btn-default { filter: brightness(75%); }\r\n\r\nlabel.checkbox.disabled,\r\nlabel.checkbox.readonly,\r\n.btn.readonly {\r\n  filter: alpha(opacity=65);\r\n  box-shadow: none;\r\n  opacity: .65;\r\n}\r\nlabel.btn > input[type=checkbox] {\r\n  position: absolute;\r\n  clip: rect(0,0,0,0);\r\n  pointer-events: none;\r\n}\r\n</style>\r\n"],"sourceRoot":"webpack://"}]);
+	exports.push([module.id, "\nlabel.checkbox[data-v-a6a723b4] {\r\n  position: relative;\r\n  padding-left: 18px;\n}\nlabel.checkbox > input[data-v-a6a723b4] {\r\n  box-sizing: border-box;\r\n  position: absolute;\r\n  z-index: -1;\r\n  padding: 0;\r\n  opacity: 0;\r\n  margin: 0;\n}\nlabel.checkbox > .icon[data-v-a6a723b4] {\r\n  position: absolute;\r\n  top: .2rem;\r\n  left: 0;\r\n  display: block;\r\n  width: 1.4rem;\r\n  height: 1.4rem;\r\n  line-height:1rem;\r\n  text-align: center;\r\n  user-select: none;\r\n  border-radius: .35rem;\r\n  background-repeat: no-repeat;\r\n  background-position: center center;\r\n  background-size: 50% 50%;\n}\nlabel.checkbox:not(.active) > .icon[data-v-a6a723b4] {\r\n  background-color: #ddd;\r\n  border: 1px solid #bbb;\n}\nlabel.checkbox > input:focus ~ .icon[data-v-a6a723b4] {\r\n  outline: 0;\r\n  border: 1px solid #66afe9;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);\n}\nlabel.checkbox.active > .icon[data-v-a6a723b4] {\r\n  background-size: 1rem 1rem;\r\n  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNyIgaGVpZ2h0PSI3Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNS43MywwLjUybC0zLjEyNDIyLDMuMzQxNjFsLTEuMzM4OTUsLTEuNDMyMTJsLTEuMjQ5NjksMS4zMzY2NWwyLjU4ODYzLDIuNzY4NzZsNC4zNzM5LC00LjY3ODI2bC0xLjI0OTY5LC0xLjMzNjY1bDAsMGwwLjAwMDAyLDAuMDAwMDF6Ii8+PC9zdmc+);\n}\nlabel.checkbox.active .btn-default[data-v-a6a723b4] { filter: brightness(75%);\n}\nlabel.checkbox.disabled[data-v-a6a723b4],\r\nlabel.checkbox.readonly[data-v-a6a723b4],\r\n.btn.readonly[data-v-a6a723b4] {\r\n  filter: alpha(opacity=65);\r\n  box-shadow: none;\r\n  opacity: .65;\n}\nlabel.btn > input[type=checkbox][data-v-a6a723b4] {\r\n  position: absolute;\r\n  clip: rect(0,0,0,0);\r\n  pointer-events: none;\n}\r\n", "", {"version":3,"sources":["/./src/Checkbox.vue?1c04410b"],"names":[],"mappings":";AAyFA;EACA,mBAAA;EACA,mBAAA;CACA;AACA;EACA,uBAAA;EACA,mBAAA;EACA,YAAA;EACA,WAAA;EACA,WAAA;EACA,UAAA;CACA;AACA;EACA,mBAAA;EACA,WAAA;EACA,QAAA;EACA,eAAA;EACA,cAAA;EACA,eAAA;EACA,iBAAA;EACA,mBAAA;EACA,kBAAA;EACA,sBAAA;EACA,6BAAA;EACA,mCAAA;EACA,yBAAA;CACA;AACA;EACA,uBAAA;EACA,uBAAA;CACA;AACA;EACA,WAAA;EACA,0BAAA;EACA,0EAAA;CACA;AACA;EACA,2BAAA;EACA,kZAAA;CACA;AACA,sDAAA,wBAAA;CAAA;AAEA;;;EAGA,0BAAA;EACA,iBAAA;EACA,aAAA;CACA;AACA;EACA,mBAAA;EACA,oBAAA;EACA,qBAAA;CACA","file":"Checkbox.vue","sourcesContent":["<template>\r\n  <a :is=\"isButton?'a':'label'\" @click=\"toggle\" :class=\"[isButton?'btn btn-'+typeColor:'open checkbox '+typeColor,{active:checked,disabled:disabled,readonly:readonly}]\">\r\n    <input v-if=\"name\" type=\"hidden\" :name=\"name\" :value=\"checked?trueValue:falseValue\" />\r\n    <span v-if=\"!isButton\" class=\"icon dropdown-toggle\" :class=\"[checked?'btn-'+typeColor:'',{bg:typeColor==='default'}]\"></span>\r\n    <span v-if=\"!isButton&&checked&&typeColor==='default'\" class=\"icon\"></span>\r\n    <slot></slot>\r\n  </a>\r\n</template>\r\n\r\n<script>\r\nexport default {\r\n  props: {\r\n    button: {type: Boolean, default: false},\r\n    disabled: {type: Boolean, default: false},\r\n    falseValue: {default: false},\r\n    name: {type: String, default: null},\r\n    readonly: {type: Boolean, default: false},\r\n    trueValue: {default: true},\r\n    type: {type: String, default: null},\r\n    value: {default: false}\r\n  },\r\n  data () {\r\n    return {\r\n      checked: (this.value === this.trueValue)\r\n    }\r\n  },\r\n  computed: {\r\n    isButton () { return this.button || (this._inGroup && this.$parent.buttons) },\r\n    isFalse () { return this.value === this.falseValue },\r\n    isTrue () { return this.value === this.trueValue },\r\n    parentValue () { return this._ingroup && this.$parent.val },\r\n    typeColor () { return (this.type || (this.$parent && this.$parent.type)) || 'default' }\r\n  },\r\n  watch: {\r\n    checked (val, old) {\r\n      var value = val ? this.trueValue : this.falseValue\r\n      this.$emit('checked', val)\r\n      this.$emit('input', value)\r\n      this.eval()\r\n    },\r\n    parentValue (val) {\r\n      var checked = val === this.trueValue\r\n      if (this.checked !== checked) {\r\n        this.checked = checked\r\n      }\r\n    },\r\n    value (val, old) {\r\n      var checked = val === this.trueValue\r\n      if (this.checked !== checked) {\r\n        this.checked = checked\r\n      }\r\n    }\r\n  },\r\n  created () {\r\n    const parent = this.$parent\r\n    if (parent && parent._btnGroup && !parent._radioGroup) {\r\n      this._inGroup = true\r\n      parent._checkboxGroup = true\r\n      if (!(parent.val instanceof Array)) { parent.val = [] }\r\n      this.eval()\r\n    }\r\n  },\r\n  mounted () {\r\n    if (!this.$parent._checkboxGroup || typeof this.value === 'boolean') { return }\r\n    if (this.$parent.val.length) {\r\n      // this.checked = ~this.$parent.val.indexOf(this.value)\r\n      this.$emit('checked', ~this.$parent.val.indexOf(this.value))\r\n    } else if (this.checked) {\r\n      this.$parent.val.push(this.value)\r\n    }\r\n  },\r\n  methods: {\r\n    eval () {\r\n      if (this._inGroup) {\r\n        var value = this.checked ? this.isTrue : this.isFalse\r\n        var index = this.$parent.val.indexOf(value)\r\n        if (this.checked && !~index) this.$parent.val.push(value)\r\n        if (!this.checked && ~index) this.$parent.val.splice(index, 1)\r\n      }\r\n    },\r\n    toggle () {\r\n      if (this.disabled || this.readonly) { return }\r\n      this.checked = !this.checked\r\n    }\r\n  }\r\n}\r\n</script>\r\n\r\n<style scoped>\r\nlabel.checkbox {\r\n  position: relative;\r\n  padding-left: 18px;\r\n}\r\nlabel.checkbox > input {\r\n  box-sizing: border-box;\r\n  position: absolute;\r\n  z-index: -1;\r\n  padding: 0;\r\n  opacity: 0;\r\n  margin: 0;\r\n}\r\nlabel.checkbox > .icon {\r\n  position: absolute;\r\n  top: .2rem;\r\n  left: 0;\r\n  display: block;\r\n  width: 1.4rem;\r\n  height: 1.4rem;\r\n  line-height:1rem;\r\n  text-align: center;\r\n  user-select: none;\r\n  border-radius: .35rem;\r\n  background-repeat: no-repeat;\r\n  background-position: center center;\r\n  background-size: 50% 50%;\r\n}\r\nlabel.checkbox:not(.active) > .icon {\r\n  background-color: #ddd;\r\n  border: 1px solid #bbb;\r\n}\r\nlabel.checkbox > input:focus ~ .icon {\r\n  outline: 0;\r\n  border: 1px solid #66afe9;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);\r\n}\r\nlabel.checkbox.active > .icon {\r\n  background-size: 1rem 1rem;\r\n  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNyIgaGVpZ2h0PSI3Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNS43MywwLjUybC0zLjEyNDIyLDMuMzQxNjFsLTEuMzM4OTUsLTEuNDMyMTJsLTEuMjQ5NjksMS4zMzY2NWwyLjU4ODYzLDIuNzY4NzZsNC4zNzM5LC00LjY3ODI2bC0xLjI0OTY5LC0xLjMzNjY1bDAsMGwwLjAwMDAyLDAuMDAwMDF6Ii8+PC9zdmc+);\r\n}\r\nlabel.checkbox.active .btn-default { filter: brightness(75%); }\r\n\r\nlabel.checkbox.disabled,\r\nlabel.checkbox.readonly,\r\n.btn.readonly {\r\n  filter: alpha(opacity=65);\r\n  box-shadow: none;\r\n  opacity: .65;\r\n}\r\nlabel.btn > input[type=checkbox] {\r\n  position: absolute;\r\n  clip: rect(0,0,0,0);\r\n  pointer-events: none;\r\n}\r\n</style>\r\n"],"sourceRoot":"webpack://"}]);
 	
 	// exports
 
@@ -3844,8 +3844,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 98 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h(_vm.isButton ? 'a' : 'label', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c(_vm.isButton ? 'a' : 'label', {
 	    tag: "a",
 	    class: [_vm.isButton ? 'btn btn-' + _vm.typeColor : 'open checkbox ' + _vm.typeColor, {
 	      active: _vm.checked,
@@ -3855,7 +3855,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.toggle
 	    }
-	  }, [(_vm.name) ? _vm._h('input', {
+	  }, [(_vm.name) ? _c('input', {
 	    attrs: {
 	      "type": "hidden",
 	      "name": _vm.name
@@ -3863,19 +3863,19 @@ return /******/ (function(modules) { // webpackBootstrap
 	    domProps: {
 	      "value": _vm.checked ? _vm.trueValue : _vm.falseValue
 	    }
-	  }) : _vm._e(), " ", (!_vm.isButton) ? _vm._h('span', {
+	  }) : _vm._e(), _vm._v(" "), (!_vm.isButton) ? _c('span', {
 	    staticClass: "icon dropdown-toggle",
 	    class: [_vm.checked ? 'btn-' + _vm.typeColor : '', {
 	      bg: _vm.typeColor === 'default'
 	    }]
-	  }) : _vm._e(), " ", (!_vm.isButton && _vm.checked && _vm.typeColor === 'default') ? _vm._h('span', {
+	  }) : _vm._e(), _vm._v(" "), (!_vm.isButton && _vm.checked && _vm.typeColor === 'default') ? _c('span', {
 	    staticClass: "icon"
-	  }) : _vm._e(), " ", _vm._t("default")])
+	  }) : _vm._e(), _vm._v(" "), _vm._t("default")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-6922bf24", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-a6a723b4", module.exports)
 	  }
 	}
 
@@ -3905,7 +3905,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Datepicker.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Datepicker.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -3916,9 +3916,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-477b8e5d", __vue_options__)
+	    hotAPI.createRecord("data-v-6154f642", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-477b8e5d", __vue_options__)
+	    hotAPI.reload("data-v-6154f642", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Datepicker.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -3942,8 +3942,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-477b8e5d!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Datepicker.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-477b8e5d!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Datepicker.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-6154f642!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Datepicker.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-6154f642!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Datepicker.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -4314,10 +4314,10 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 103 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    staticClass: "datepicker"
-	  }, [_vm._h('input', {
+	  }, [_c('input', {
 	    staticClass: "form-control datepicker-input",
 	    class: {
 	      'with-reset-button': _vm.clearButton
@@ -4338,7 +4338,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        this.$emit('input', $event.target.value)
 	      }
 	    }
-	  }), " ", (_vm.clearButton && _vm.value) ? _vm._h('button', {
+	  }), _vm._v(" "), (_vm.clearButton && _vm.value) ? _c('button', {
 	    staticClass: "close",
 	    attrs: {
 	      "type": "button"
@@ -4348,7 +4348,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.value = ''
 	      }
 	    }
-	  }, [_vm._h('span', ["×"])]) : _vm._e(), " ", _vm._h('div', {
+	  }, [_c('span', [_vm._v("×")])]) : _vm._e(), _vm._v(" "), _c('div', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -4356,13 +4356,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	      expression: "displayDayView"
 	    }],
 	    staticClass: "datepicker-popup"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-inner"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-body"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-ctrl"
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    staticClass: "datepicker-preBtn glyphicon glyphicon-chevron-left",
 	    attrs: {
 	      "aria-hidden": "true"
@@ -4372,7 +4372,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.preNextMonthClick(0)
 	      }
 	    }
-	  }), " ", _vm._h('span', {
+	  }), _vm._v(" "), _c('span', {
 	    staticClass: "datepicker-nextBtn glyphicon glyphicon-chevron-right",
 	    attrs: {
 	      "aria-hidden": "true"
@@ -4382,26 +4382,26 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.preNextMonthClick(1)
 	      }
 	    }
-	  }), " ", _vm._h('p', {
+	  }), _vm._v(" "), _c('p', {
 	    on: {
 	      "click": _vm.switchMonthView
 	    }
-	  }, [_vm._s(_vm.stringifyDayHeader(_vm.currDate))])]), " ", _vm._h('div', {
+	  }, [_vm._v(_vm._s(_vm.stringifyDayHeader(_vm.currDate)))])]), _vm._v(" "), _c('div', {
 	    staticClass: "datepicker-weekRange"
-	  }, [_vm._l((_vm.text.daysOfWeek), function(w) {
-	    return _vm._h('span', [_vm._s(w)])
-	  })]), " ", _vm._h('div', {
+	  }, _vm._l((_vm.text.daysOfWeek), function(w) {
+	    return _c('span', [_vm._v(_vm._s(w))])
+	  })), _vm._v(" "), _c('div', {
 	    staticClass: "datepicker-dateRange"
-	  }, [_vm._l((_vm.dateRange), function(d) {
-	    return _vm._h('span', {
+	  }, _vm._l((_vm.dateRange), function(d) {
+	    return _c('span', {
 	      class: d.sclass,
 	      on: {
 	        "click": function($event) {
 	          _vm.daySelect(d.date, this)
 	        }
 	      }
-	    }, [_vm._s(d.text)])
-	  })])])])]), " ", _vm._h('div', {
+	    }, [_vm._v(_vm._s(d.text))])
+	  }))])])]), _vm._v(" "), _c('div', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -4409,13 +4409,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	      expression: "displayMonthView"
 	    }],
 	    staticClass: "datepicker-popup"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-inner"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-body"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-ctrl"
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    staticClass: "datepicker-preBtn glyphicon glyphicon-chevron-left",
 	    attrs: {
 	      "aria-hidden": "true"
@@ -4425,7 +4425,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.preNextYearClick(0)
 	      }
 	    }
-	  }), " ", _vm._h('span', {
+	  }), _vm._v(" "), _c('span', {
 	    staticClass: "datepicker-nextBtn glyphicon glyphicon-chevron-right",
 	    attrs: {
 	      "aria-hidden": "true"
@@ -4435,14 +4435,14 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.preNextYearClick(1)
 	      }
 	    }
-	  }), " ", _vm._h('p', {
+	  }), _vm._v(" "), _c('p', {
 	    on: {
 	      "click": _vm.switchDecadeView
 	    }
-	  }, [_vm._s(_vm.stringifyYearHeader(_vm.currDate))])]), " ", _vm._h('div', {
+	  }, [_vm._v(_vm._s(_vm.stringifyYearHeader(_vm.currDate)))])]), _vm._v(" "), _c('div', {
 	    staticClass: "datepicker-monthRange"
 	  }, [_vm._l((_vm.text.months), function(m, index) {
-	    return [_vm._h('span', {
+	    return [_c('span', {
 	      class: {
 	        'datepicker-dateRange-item-active':
 	        (_vm.text.months[_vm.parse(_vm.value).getMonth()] === m) &&
@@ -4453,8 +4453,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	          _vm.monthSelect(index)
 	        }
 	      }
-	    }, [_vm._s(m.substr(0, 3))])]
-	  })])])])]), " ", _vm._h('div', {
+	    }, [_vm._v(_vm._s(m.substr(0, 3)))])]
+	  })], true)])])]), _vm._v(" "), _c('div', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -4462,13 +4462,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	      expression: "displayYearView"
 	    }],
 	    staticClass: "datepicker-popup"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-inner"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-body"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "datepicker-ctrl"
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    staticClass: "datepicker-preBtn glyphicon glyphicon-chevron-left",
 	    attrs: {
 	      "aria-hidden": "true"
@@ -4478,7 +4478,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.preNextDecadeClick(0)
 	      }
 	    }
-	  }), " ", _vm._h('span', {
+	  }), _vm._v(" "), _c('span', {
 	    staticClass: "datepicker-nextBtn glyphicon glyphicon-chevron-right",
 	    attrs: {
 	      "aria-hidden": "true"
@@ -4488,10 +4488,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.preNextDecadeClick(1)
 	      }
 	    }
-	  }), " ", _vm._h('p', [_vm._s(_vm.stringifyDecadeHeader(_vm.currDate))])]), " ", _vm._h('div', {
+	  }), _vm._v(" "), _c('p', [_vm._v(_vm._s(_vm.stringifyDecadeHeader(_vm.currDate)))])]), _vm._v(" "), _c('div', {
 	    staticClass: "datepicker-monthRange decadeRange"
 	  }, [_vm._l((_vm.decadeRange), function(decade) {
-	    return [_vm._h('span', {
+	    return [_c('span', {
 	      class: {
 	        'datepicker-dateRange-item-active': _vm.parse(this.value).getFullYear() === decade.text
 	      },
@@ -4501,13 +4501,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	          _vm.yearSelect(decade.text)
 	        }
 	      }
-	    }, [_vm._s(decade.text)])]
-	  })])])])])])
+	    }, [_vm._v(_vm._s(decade.text))])]
+	  })], true)])])])])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-477b8e5d", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-6154f642", module.exports)
 	  }
 	}
 
@@ -4534,7 +4534,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Dropdown.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Dropdown.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -4545,9 +4545,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-39be1072", __vue_options__)
+	    hotAPI.createRecord("data-v-7d47bf74", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-39be1072", __vue_options__)
+	    hotAPI.reload("data-v-7d47bf74", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Dropdown.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -4669,8 +4669,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 106 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h(_vm.isLi ? 'li' : 'div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c(_vm.isLi ? 'li' : 'div', {
 	    directives: [{
 	      name: "click-outside",
 	      rawName: "v-click-outside",
@@ -4685,7 +4685,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	      'input-group-btn': _vm.inInput,
 	      'btn-group': !_vm.isLi && !_vm.inInput
 	    }]
-	  }, [_vm._t("before"), " ", _vm._t("button", [(_vm.isLi) ? _vm._h('a', {
+	  }, [_vm._t("before"), _vm._v(" "), _vm._t("button", [(_vm.isLi) ? _c('a', {
 	    class: ['dropdown-toggle', _vm.buttonSize, {
 	      disabled: _vm.disabled
 	    }],
@@ -4694,13 +4694,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	    },
 	    on: {
 	      "keyup": function($event) {
-	        if ($event.keyCode !== 27) { return; }
+	        if (_vm._k($event.keyCode, "esc", 27)) { return; }
 	        _vm.show = false
 	      }
 	    }
-	  }, ["\n      " + _vm._s(_vm.text) + "\n      ", _vm._h('span', {
+	  }, [_vm._v("\n      " + _vm._s(_vm.text) + "\n      "), _c('span', {
 	    staticClass: "caret"
-	  })]) : _vm._h('button', {
+	  })]) : _c('button', {
 	    class: ['btn btn-' + _vm.type, _vm.buttonSize, 'dropdown-toggle'],
 	    attrs: {
 	      "type": "button",
@@ -4708,20 +4708,20 @@ return /******/ (function(modules) { // webpackBootstrap
 	    },
 	    on: {
 	      "keyup": function($event) {
-	        if ($event.keyCode !== 27) { return; }
+	        if (_vm._k($event.keyCode, "esc", 27)) { return; }
 	        _vm.show = false
 	      }
 	    }
-	  }, ["\n      " + _vm._s(_vm.text) + "\n      ", _vm._h('span', {
+	  }, [_vm._v("\n      " + _vm._s(_vm.text) + "\n      "), _c('span', {
 	    staticClass: "caret"
-	  })]), " "]), " ", _vm._t("dropdown-menu", [_vm._h('ul', {
+	  })]), _vm._v(" ")]), _vm._v(" "), _vm._t("dropdown-menu", [_c('ul', {
 	    staticClass: "dropdown-menu"
-	  }, [_vm._t("default")])])])
+	  }, [_vm._t("default")], true)])], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-39be1072", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-7d47bf74", module.exports)
 	  }
 	}
 
@@ -4748,7 +4748,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\FormGroup.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\FormGroup.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -4759,9 +4759,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-79eb400a", __vue_options__)
+	    hotAPI.createRecord("data-v-b0d11d70", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-79eb400a", __vue_options__)
+	    hotAPI.reload("data-v-b0d11d70", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] FormGroup.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -4859,13 +4859,13 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 109 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('span', [_vm._t("default")])
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('span', [_vm._t("default")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-79eb400a", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-b0d11d70", module.exports)
 	  }
 	}
 
@@ -4892,7 +4892,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\FormValidator.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\FormValidator.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -4903,9 +4903,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-b9f57c46", __vue_options__)
+	    hotAPI.createRecord("data-v-5ecab7ca", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-b9f57c46", __vue_options__)
+	    hotAPI.reload("data-v-5ecab7ca", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] FormValidator.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -4988,13 +4988,13 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 112 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('span', [_vm._t("default")])
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('span', [_vm._t("default")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-b9f57c46", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-5ecab7ca", module.exports)
 	  }
 	}
 
@@ -5024,10 +5024,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Input.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Input.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-	__vue_options__._scopeId = "data-v-652ad7b9"
+	__vue_options__._scopeId = "data-v-14ad57f7"
 	
 	/* hot reload */
 	if (false) {(function () {
@@ -5036,9 +5036,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-652ad7b9", __vue_options__)
+	    hotAPI.createRecord("data-v-14ad57f7", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-652ad7b9", __vue_options__)
+	    hotAPI.reload("data-v-14ad57f7", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Input.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -5062,8 +5062,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-652ad7b9&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Input.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-652ad7b9&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Input.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-14ad57f7&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Input.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-14ad57f7&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Input.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -5081,7 +5081,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	
 	// module
-	exports.push([module.id, "\n.form-group[data-v-652ad7b9] {\r\n  position: relative;\n}\nlabel~.close[data-v-652ad7b9] {\r\n  top: 25px;\n}\n.input-group>.icon[data-v-652ad7b9] {\r\n  position: relative;\r\n  display: table-cell;\r\n  width:0;\r\n  z-index: 3;\n}\n.close[data-v-652ad7b9] {\r\n  position: absolute;\r\n  top: 0;\r\n  right: 0;\r\n  z-index: 2;\r\n  display: block;\r\n  width: 34px;\r\n  height: 34px;\r\n  line-height: 34px;\r\n  text-align: center;\n}\n.has-feedback .close[data-v-652ad7b9] {\r\n  right: 20px;\n}\r\n", "", {"version":3,"sources":["/./src/Input.vue?4d1a13d4"],"names":[],"mappings":";AAoQA;EACA,mBAAA;CACA;AACA;EACA,UAAA;CACA;AACA;EACA,mBAAA;EACA,oBAAA;EACA,QAAA;EACA,WAAA;CACA;AACA;EACA,mBAAA;EACA,OAAA;EACA,SAAA;EACA,WAAA;EACA,eAAA;EACA,YAAA;EACA,aAAA;EACA,kBAAA;EACA,mBAAA;CACA;AACA;EACA,YAAA;CACA","file":"Input.vue","sourcesContent":["<template>\r\n  <div class=\"form-group\" :class=\"{validate:canValidate,'has-feedback':icon,'has-error':canValidate&&valid===false,'has-success':canValidate&&valid}\">\r\n    <slot name=\"label\"><label v-if=\"label\" class=\"control-label\" @click=\"focus\">{{label}}</label></slot>\r\n    <div v-if=\"$slots.before||$slots.after\" class=\"input-group\">\r\n      <slot name=\"before\"></slot>\r\n      <textarea :is=\"type=='textarea'?type:'input'\" class=\"form-control\" ref=\"input\"\r\n        :cols=\"cols\"\r\n        :disabled=\"disabled\"\r\n        :list=\"id_datalist\"\r\n        :max=\"attr(max)\"\r\n        :maxlength=\"maxlength\"\r\n        :min=\"attr(min)\"\r\n        :name=\"name\"\r\n        :placeholder=\"placeholder\"\r\n        :readonly=\"readonly\"\r\n        :required=\"required\"\r\n        :rows=\"rows\"\r\n        :step=\"step\"\r\n        :title=\"attr(title)\"\r\n        :type=\"type=='textarea'?null:type\"\r\n        v-model=\"val\"\r\n        @blur=\"emit\" @focus=\"emit\" @input=\"emit\"\r\n        @keyup.enter=\"type!='textarea'&&enterSubmit&&submit()\"\r\n      ></textarea>\r\n      <div v-if=\"clearButton && value\" :class=\"{icon:icon}\">\r\n        <span class=\"close\" @click=\"value = ''\">&times;</span>\r\n      </div>\r\n      <div v-if=\"icon\" class=\"icon\">\r\n        <span v-if=\"icon&&valid!==null\" :class=\"['form-control-feedback glyphicon','glyphicon-'+(valid?'ok':'remove')]\" aria-hidden=\"true\"></span>\r\n      </div>\r\n      <slot name=\"after\"></slot>\r\n    </div>\r\n    <template v-else>\r\n      <textarea :is=\"type=='textarea'?type:'input'\" class=\"form-control\" ref=\"input\"\r\n        :cols=\"cols\"\r\n        :disabled=\"disabled\"\r\n        :list=\"id_datalist\"\r\n        :max=\"attr(max)\"\r\n        :maxlength=\"maxlength\"\r\n        :min=\"attr(min)\"\r\n        :name=\"name\"\r\n        :placeholder=\"placeholder\"\r\n        :readonly=\"readonly\"\r\n        :required=\"required\"\r\n        :rows=\"rows\"\r\n        :step=\"step\"\r\n        :title=\"attr(title)\"\r\n        :type=\"type=='textarea'?null:type\"\r\n        v-model=\"val\"\r\n        @blur=\"emit\" @focus=\"emit\" @input=\"emit\"\r\n        @keyup.enter=\"type!='textarea'&&enterSubmit&&submit()\"\r\n      ></textarea>\r\n      <span v-if=\"clearButton && val\" class=\"close\" @click=\"val = ''\">&times;</span>\r\n      <span v-if=\"icon&&valid!==null\" :class=\"['form-control-feedback glyphicon','glyphicon-'+(valid?'ok':'remove')]\" aria-hidden=\"true\"></span>\r\n    </template>\r\n    <datalist v-if=\"id_datalist\" :id=\"id_datalist\">\r\n      <option v-for=\"opc in options\" :value=\"opc\"></option>\r\n    </datalist>\r\n    <div v-if=\"showHelp\" class=\"help-block\" @click=\"focus\">{{help}}</div>\r\n    <div v-if=\"showError\" class=\"help-block with-errors\" @click=\"focus\">{{errorText}}</div>\r\n  </div>\r\n</template>\r\n\r\n<script>\r\nimport {coerce, delayer, translations} from './utils/utils.js'\r\nimport $ from './utils/NodeList.js'\r\n\r\nvar DELAY = 300\r\n\r\nexport default {\r\n  props: {\r\n    clearButton: {type: Boolean, default: false},\r\n    cols: {type: Number, default: null},\r\n    datalist: {type: Array, default: null},\r\n    disabled: {type: Boolean, default: false},\r\n    enterSubmit: {type: Boolean, default: false},\r\n    error: {type: String, default: null},\r\n    help: {type: String, default: null},\r\n    hideHelp: {type: Boolean, default: true},\r\n    icon: {type: Boolean, default: false},\r\n    label: {type: String, default: null},\r\n    lang: {type: String, default: navigator.language},\r\n    mask: null,\r\n    maskDelay: {type: Number, default: 100},\r\n    match: {type: String, default: null},\r\n    max: {type: String, default: null},\r\n    maxlength: {type: Number, default: null},\r\n    min: {type: String, default: null},\r\n    minlength: {type: Number, default: 0},\r\n    name: {type: String, default: null},\r\n    pattern: {default: null},\r\n    placeholder: {type: String, default: null},\r\n    readonly: {type: Boolean, default: false},\r\n    required: {type: Boolean, default: false},\r\n    rows: {type: Number, default: 3},\r\n    step: {type: Number, default: null},\r\n    type: {type: String, default: 'text'},\r\n    url: {type: String, default: null},\r\n    urlMap: {type: Function, default: null},\r\n    validationDelay: {type: Number, default: 250},\r\n    value: {default: null}\r\n  },\r\n  data () {\r\n    var val = this.value\r\n    return {\r\n      options: this.datalist,\r\n      val,\r\n      valid: null,\r\n      timeout: null\r\n    }\r\n  },\r\n  computed: {\r\n    canValidate () { return !this.disabled && !this.readonly && (this.required || this.regex || this.nativeValidate || this.match !== null) },\r\n    errorText () {\r\n      let value = this.value\r\n      let error = [this.error]\r\n      if (!value && this.required) error.push('(' + this.text.required.toLowerCase() + ')')\r\n      if (value && (value.length < this.minlength)) error.push('(' + this.text.minLength.toLowerCase() + ': ' + this.minlength + ')')\r\n      return error.join(' ')\r\n    },\r\n    id_datalist () {\r\n      if (this.type !== 'textarea' && this.datalist instanceof Array) {\r\n        if (!this._id_datalist) {\r\n          if (!this.$root.id_datalist) { this.$root.id_datalist = 0 }\r\n          this._id_datalist = 'input-datalist' + this.$root.id_datalist++\r\n        }\r\n        return this._id_datalist\r\n      }\r\n      return null\r\n    },\r\n    input () { return this.$refs.input },\r\n    nativeValidate () { return (this.input || {}).checkValidity && (~['url', 'email'].indexOf(this.type.toLowerCase()) || this.min || this.max) },\r\n    regex () { return coerce.pattern(this.pattern) },\r\n    showError () { return this.error && this.valid === false },\r\n    showHelp () { return this.help && (!this.showError || !this.hideHelp) },\r\n    text () { return translations(this.lang) },\r\n    title () { return this.errorText || this.help || '' }\r\n  },\r\n  watch: {\r\n    datalist (val, old) {\r\n      if (val !== old && val instanceof Array) { this.options = val }\r\n    },\r\n    match (val) { this.eval() },\r\n    options (val, old) {\r\n      if (val !== old) this.$emit('options', val)\r\n    },\r\n    url (val) {\r\n      this._url()\r\n    },\r\n    val (val, old) {\r\n      this.$emit('input', val)\r\n      if (val !== old) {\r\n        if (this.mask instanceof Function) {\r\n          val = this.mask(val || '')\r\n          if (this.val !== val) {\r\n            if (this._timeout.mask) clearTimeout(this._timeout.mask)\r\n            this._timeout.mask = setTimeout(() => {\r\n              this.val = val\r\n            }, isNaN(this.maskDelay) ? 0 : this.maskDelay)\r\n          }\r\n        }\r\n        this.eval()\r\n      }\r\n    },\r\n    valid (val, old) {\r\n      this.$emit('isvalid', val)\r\n      this.$emit(!val ? 'invalid' : 'valid')\r\n      if (this._parent) this._parent.validate()\r\n    },\r\n    value (val) {\r\n      if (this.val !== val) { this.val = val }\r\n    }\r\n  },\r\n  methods: {\r\n    attr (value) {\r\n      return ~['', null, undefined].indexOf(value) || value instanceof Function ? null : value\r\n    },\r\n    emit (e) {\r\n      this.$emit(e.type, e)\r\n      if (e.type === 'blur' && this.canValidate) { this.valid = this.validate() }\r\n    },\r\n    eval () {\r\n      if (this._timeout.eval) clearTimeout(this._timeout.eval)\r\n      if (!this.canValidate) {\r\n        this.valid = true\r\n      } else {\r\n        this._timeout.eval = setTimeout(() => {\r\n          this.valid = this.validate()\r\n          this._timeout.eval = null\r\n        }, this.validationDelay)\r\n      }\r\n    },\r\n    focus () { this.input.focus() },\r\n    submit () {\r\n      if (this.$parent._formValidator) {\r\n        return this.$parent.validate()\r\n      }\r\n      if (this.input.form) {\r\n        const invalids = $('.form-group.validate:not(.has-success)', this.input.form)\r\n        if (invalids.length) {\r\n          invalids.find('input,textarea,select')[0].focus()\r\n        } else {\r\n          this.input.form.submit()\r\n        }\r\n      }\r\n    },\r\n    validate () {\r\n      if (!this.canValidate) { return true }\r\n      let value = (this.val || '').trim()\r\n      if (!value) { return !this.required }\r\n      if (this.match !== null) { return this.match === value }\r\n      if (value.length < this.minlength) { return false }\r\n      if (this.nativeValidate && !this.input.checkValidity()) { return false }\r\n      if (this.regex) {\r\n        if (!(this.regex instanceof Function ? this.regex(this.value) : this.regex.test(this.value))) { return false }\r\n      }\r\n      return true\r\n    }\r\n  },\r\n  created () {\r\n    this._input = true\r\n    this._timeout = {}\r\n    let parent = this.$parent\r\n    while (parent && !parent._formValidator) { parent = parent.$parent }\r\n    if (parent && parent._formValidator) {\r\n      this._parent = parent\r\n      this._parent && this._parent.children.push(this)\r\n    }\r\n    this._url = delayer(function () {\r\n      if (!this.url || !this.$http || this._loading) { return }\r\n      this._loading = true\r\n      this.$http.get(this.url).then(response => {\r\n        var data = response.data instanceof Array ? response.data : []\r\n        try { data = JSON.parse(data) } catch (e) {}\r\n        if (this.urlMap) { data = data.map(this.urlMap) }\r\n        this.options = data\r\n        this.loading = false\r\n      }, response => {\r\n        this.loading = false\r\n      })\r\n    }, DELAY)\r\n    if (this.url) this._url()\r\n  },\r\n  mounted () {\r\n    // $(this.input).on('focus', e => { this.$emit('focus', e) }).on('blur', e => {\r\n    //   if (this.canValidate) { this.valid = this.validate() }\r\n    //   this.$emit('blur', e)\r\n    // })\r\n  },\r\n  beforeDestroy () {\r\n    // $(this.input).off()\r\n    if (this._parent) {\r\n      var index = this._parent.children.indexOf(this)\r\n      this._parent.children.splice(index, 1)\r\n    }\r\n  }\r\n}\r\n</script>\r\n\r\n<style scoped>\r\n.form-group {\r\n  position: relative;\r\n}\r\nlabel~.close {\r\n  top: 25px;\r\n}\r\n.input-group>.icon {\r\n  position: relative;\r\n  display: table-cell;\r\n  width:0;\r\n  z-index: 3;\r\n}\r\n.close {\r\n  position: absolute;\r\n  top: 0;\r\n  right: 0;\r\n  z-index: 2;\r\n  display: block;\r\n  width: 34px;\r\n  height: 34px;\r\n  line-height: 34px;\r\n  text-align: center;\r\n}\r\n.has-feedback .close {\r\n  right: 20px;\r\n}\r\n</style>\r\n"],"sourceRoot":"webpack://"}]);
+	exports.push([module.id, "\n.form-group[data-v-14ad57f7] {\r\n  position: relative;\n}\nlabel~.close[data-v-14ad57f7] {\r\n  top: 25px;\n}\n.input-group>.icon[data-v-14ad57f7] {\r\n  position: relative;\r\n  display: table-cell;\r\n  width:0;\r\n  z-index: 3;\n}\n.close[data-v-14ad57f7] {\r\n  position: absolute;\r\n  top: 0;\r\n  right: 0;\r\n  z-index: 2;\r\n  display: block;\r\n  width: 34px;\r\n  height: 34px;\r\n  line-height: 34px;\r\n  text-align: center;\n}\n.has-feedback .close[data-v-14ad57f7] {\r\n  right: 20px;\n}\r\n", "", {"version":3,"sources":["/./src/Input.vue?4d1a13d4"],"names":[],"mappings":";AAoQA;EACA,mBAAA;CACA;AACA;EACA,UAAA;CACA;AACA;EACA,mBAAA;EACA,oBAAA;EACA,QAAA;EACA,WAAA;CACA;AACA;EACA,mBAAA;EACA,OAAA;EACA,SAAA;EACA,WAAA;EACA,eAAA;EACA,YAAA;EACA,aAAA;EACA,kBAAA;EACA,mBAAA;CACA;AACA;EACA,YAAA;CACA","file":"Input.vue","sourcesContent":["<template>\r\n  <div class=\"form-group\" :class=\"{validate:canValidate,'has-feedback':icon,'has-error':canValidate&&valid===false,'has-success':canValidate&&valid}\">\r\n    <slot name=\"label\"><label v-if=\"label\" class=\"control-label\" @click=\"focus\">{{label}}</label></slot>\r\n    <div v-if=\"$slots.before||$slots.after\" class=\"input-group\">\r\n      <slot name=\"before\"></slot>\r\n      <textarea :is=\"type=='textarea'?type:'input'\" class=\"form-control\" ref=\"input\"\r\n        :cols=\"cols\"\r\n        :disabled=\"disabled\"\r\n        :list=\"id_datalist\"\r\n        :max=\"attr(max)\"\r\n        :maxlength=\"maxlength\"\r\n        :min=\"attr(min)\"\r\n        :name=\"name\"\r\n        :placeholder=\"placeholder\"\r\n        :readonly=\"readonly\"\r\n        :required=\"required\"\r\n        :rows=\"rows\"\r\n        :step=\"step\"\r\n        :title=\"attr(title)\"\r\n        :type=\"type=='textarea'?null:type\"\r\n        v-model=\"val\"\r\n        @blur=\"emit\" @focus=\"emit\" @input=\"emit\"\r\n        @keyup.enter=\"type!='textarea'&&enterSubmit&&submit()\"\r\n      ></textarea>\r\n      <div v-if=\"clearButton && value\" :class=\"{icon:icon}\">\r\n        <span class=\"close\" @click=\"value = ''\">&times;</span>\r\n      </div>\r\n      <div v-if=\"icon\" class=\"icon\">\r\n        <span v-if=\"icon&&valid!==null\" :class=\"['form-control-feedback glyphicon','glyphicon-'+(valid?'ok':'remove')]\" aria-hidden=\"true\"></span>\r\n      </div>\r\n      <slot name=\"after\"></slot>\r\n    </div>\r\n    <template v-else>\r\n      <textarea :is=\"type=='textarea'?type:'input'\" class=\"form-control\" ref=\"input\"\r\n        :cols=\"cols\"\r\n        :disabled=\"disabled\"\r\n        :list=\"id_datalist\"\r\n        :max=\"attr(max)\"\r\n        :maxlength=\"maxlength\"\r\n        :min=\"attr(min)\"\r\n        :name=\"name\"\r\n        :placeholder=\"placeholder\"\r\n        :readonly=\"readonly\"\r\n        :required=\"required\"\r\n        :rows=\"rows\"\r\n        :step=\"step\"\r\n        :title=\"attr(title)\"\r\n        :type=\"type=='textarea'?null:type\"\r\n        v-model=\"val\"\r\n        @blur=\"emit\" @focus=\"emit\" @input=\"emit\"\r\n        @keyup.enter=\"type!='textarea'&&enterSubmit&&submit()\"\r\n      ></textarea>\r\n      <span v-if=\"clearButton && val\" class=\"close\" @click=\"val = ''\">&times;</span>\r\n      <span v-if=\"icon&&valid!==null\" :class=\"['form-control-feedback glyphicon','glyphicon-'+(valid?'ok':'remove')]\" aria-hidden=\"true\"></span>\r\n    </template>\r\n    <datalist v-if=\"id_datalist\" :id=\"id_datalist\">\r\n      <option v-for=\"opc in options\" :value=\"opc\"></option>\r\n    </datalist>\r\n    <div v-if=\"showHelp\" class=\"help-block\" @click=\"focus\">{{help}}</div>\r\n    <div v-if=\"showError\" class=\"help-block with-errors\" @click=\"focus\">{{errorText}}</div>\r\n  </div>\r\n</template>\r\n\r\n<script>\r\nimport {coerce, delayer, translations} from './utils/utils.js'\r\nimport $ from './utils/NodeList.js'\r\n\r\nvar DELAY = 300\r\n\r\nexport default {\r\n  props: {\r\n    clearButton: {type: Boolean, default: false},\r\n    cols: {type: Number, default: null},\r\n    datalist: {type: Array, default: null},\r\n    disabled: {type: Boolean, default: false},\r\n    enterSubmit: {type: Boolean, default: false},\r\n    error: {type: String, default: null},\r\n    help: {type: String, default: null},\r\n    hideHelp: {type: Boolean, default: true},\r\n    icon: {type: Boolean, default: false},\r\n    label: {type: String, default: null},\r\n    lang: {type: String, default: navigator.language},\r\n    mask: null,\r\n    maskDelay: {type: Number, default: 100},\r\n    match: {type: String, default: null},\r\n    max: {type: String, default: null},\r\n    maxlength: {type: Number, default: null},\r\n    min: {type: String, default: null},\r\n    minlength: {type: Number, default: 0},\r\n    name: {type: String, default: null},\r\n    pattern: {default: null},\r\n    placeholder: {type: String, default: null},\r\n    readonly: {type: Boolean, default: false},\r\n    required: {type: Boolean, default: false},\r\n    rows: {type: Number, default: 3},\r\n    step: {type: Number, default: null},\r\n    type: {type: String, default: 'text'},\r\n    url: {type: String, default: null},\r\n    urlMap: {type: Function, default: null},\r\n    validationDelay: {type: Number, default: 250},\r\n    value: {default: null}\r\n  },\r\n  data () {\r\n    var val = this.value\r\n    return {\r\n      options: this.datalist,\r\n      val,\r\n      valid: null,\r\n      timeout: null\r\n    }\r\n  },\r\n  computed: {\r\n    canValidate () { return !this.disabled && !this.readonly && (this.required || this.regex || this.nativeValidate || this.match !== null) },\r\n    errorText () {\r\n      let value = this.value\r\n      let error = [this.error]\r\n      if (!value && this.required) error.push('(' + this.text.required.toLowerCase() + ')')\r\n      if (value && (value.length < this.minlength)) error.push('(' + this.text.minLength.toLowerCase() + ': ' + this.minlength + ')')\r\n      return error.join(' ')\r\n    },\r\n    id_datalist () {\r\n      if (this.type !== 'textarea' && this.datalist instanceof Array) {\r\n        if (!this._id_datalist) {\r\n          if (!this.$root.id_datalist) { this.$root.id_datalist = 0 }\r\n          this._id_datalist = 'input-datalist' + this.$root.id_datalist++\r\n        }\r\n        return this._id_datalist\r\n      }\r\n      return null\r\n    },\r\n    input () { return this.$refs.input },\r\n    nativeValidate () { return (this.input || {}).checkValidity && (~['url', 'email'].indexOf(this.type.toLowerCase()) || this.min || this.max) },\r\n    regex () { return coerce.pattern(this.pattern) },\r\n    showError () { return this.error && this.valid === false },\r\n    showHelp () { return this.help && (!this.showError || !this.hideHelp) },\r\n    text () { return translations(this.lang) },\r\n    title () { return this.errorText || this.help || '' }\r\n  },\r\n  watch: {\r\n    datalist (val, old) {\r\n      if (val !== old && val instanceof Array) { this.options = val }\r\n    },\r\n    match (val) { this.eval() },\r\n    options (val, old) {\r\n      if (val !== old) this.$emit('options', val)\r\n    },\r\n    url (val) {\r\n      this._url()\r\n    },\r\n    val (val, old) {\r\n      this.$emit('input', val)\r\n      if (val !== old) {\r\n        if (this.mask instanceof Function) {\r\n          val = this.mask(val || '')\r\n          if (this.val !== val) {\r\n            if (this._timeout.mask) clearTimeout(this._timeout.mask)\r\n            this._timeout.mask = setTimeout(() => {\r\n              this.val = val\r\n            }, isNaN(this.maskDelay) ? 0 : this.maskDelay)\r\n          }\r\n        }\r\n        this.eval()\r\n      }\r\n    },\r\n    valid (val, old) {\r\n      this.$emit('isvalid', val)\r\n      this.$emit(!val ? 'invalid' : 'valid')\r\n      if (this._parent) this._parent.validate()\r\n    },\r\n    value (val) {\r\n      if (this.val !== val) { this.val = val }\r\n    }\r\n  },\r\n  methods: {\r\n    attr (value) {\r\n      return ~['', null, undefined].indexOf(value) || value instanceof Function ? null : value\r\n    },\r\n    emit (e) {\r\n      this.$emit(e.type, e)\r\n      if (e.type === 'blur' && this.canValidate) { this.valid = this.validate() }\r\n    },\r\n    eval () {\r\n      if (this._timeout.eval) clearTimeout(this._timeout.eval)\r\n      if (!this.canValidate) {\r\n        this.valid = true\r\n      } else {\r\n        this._timeout.eval = setTimeout(() => {\r\n          this.valid = this.validate()\r\n          this._timeout.eval = null\r\n        }, this.validationDelay)\r\n      }\r\n    },\r\n    focus () { this.input.focus() },\r\n    submit () {\r\n      if (this.$parent._formValidator) {\r\n        return this.$parent.validate()\r\n      }\r\n      if (this.input.form) {\r\n        const invalids = $('.form-group.validate:not(.has-success)', this.input.form)\r\n        if (invalids.length) {\r\n          invalids.find('input,textarea,select')[0].focus()\r\n        } else {\r\n          this.input.form.submit()\r\n        }\r\n      }\r\n    },\r\n    validate () {\r\n      if (!this.canValidate) { return true }\r\n      let value = (this.val || '').trim()\r\n      if (!value) { return !this.required }\r\n      if (this.match !== null) { return this.match === value }\r\n      if (value.length < this.minlength) { return false }\r\n      if (this.nativeValidate && !this.input.checkValidity()) { return false }\r\n      if (this.regex) {\r\n        if (!(this.regex instanceof Function ? this.regex(this.value) : this.regex.test(this.value))) { return false }\r\n      }\r\n      return true\r\n    }\r\n  },\r\n  created () {\r\n    this._input = true\r\n    this._timeout = {}\r\n    let parent = this.$parent\r\n    while (parent && !parent._formValidator) { parent = parent.$parent }\r\n    if (parent && parent._formValidator) {\r\n      this._parent = parent\r\n      this._parent && this._parent.children.push(this)\r\n    }\r\n    this._url = delayer(function () {\r\n      if (!this.url || !this.$http || this._loading) { return }\r\n      this._loading = true\r\n      this.$http.get(this.url).then(response => {\r\n        var data = response.data instanceof Array ? response.data : []\r\n        try { data = JSON.parse(data) } catch (e) {}\r\n        if (this.urlMap) { data = data.map(this.urlMap) }\r\n        this.options = data\r\n        this.loading = false\r\n      }, response => {\r\n        this.loading = false\r\n      })\r\n    }, DELAY)\r\n    if (this.url) this._url()\r\n  },\r\n  mounted () {\r\n    // $(this.input).on('focus', e => { this.$emit('focus', e) }).on('blur', e => {\r\n    //   if (this.canValidate) { this.valid = this.validate() }\r\n    //   this.$emit('blur', e)\r\n    // })\r\n  },\r\n  beforeDestroy () {\r\n    // $(this.input).off()\r\n    if (this._parent) {\r\n      var index = this._parent.children.indexOf(this)\r\n      this._parent.children.splice(index, 1)\r\n    }\r\n  }\r\n}\r\n</script>\r\n\r\n<style scoped>\r\n.form-group {\r\n  position: relative;\r\n}\r\nlabel~.close {\r\n  top: 25px;\r\n}\r\n.input-group>.icon {\r\n  position: relative;\r\n  display: table-cell;\r\n  width:0;\r\n  z-index: 3;\r\n}\r\n.close {\r\n  position: absolute;\r\n  top: 0;\r\n  right: 0;\r\n  z-index: 2;\r\n  display: block;\r\n  width: 34px;\r\n  height: 34px;\r\n  line-height: 34px;\r\n  text-align: center;\r\n}\r\n.has-feedback .close {\r\n  right: 20px;\r\n}\r\n</style>\r\n"],"sourceRoot":"webpack://"}]);
 	
 	// exports
 
@@ -5418,20 +5418,20 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 117 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    staticClass: "form-group",
 	    class: {
 	      validate: _vm.canValidate, 'has-feedback': _vm.icon, 'has-error': _vm.canValidate && _vm.valid === false, 'has-success': _vm.canValidate && _vm.valid
 	    }
-	  }, [_vm._t("label", [(_vm.label) ? _vm._h('label', {
+	  }, [_vm._t("label", [(_vm.label) ? _c('label', {
 	    staticClass: "control-label",
 	    on: {
 	      "click": _vm.focus
 	    }
-	  }, [_vm._s(_vm.label)]) : _vm._e()]), " ", (_vm.$slots.before || _vm.$slots.after) ? _vm._h('div', {
+	  }, [_vm._v(_vm._s(_vm.label))]) : _vm._e()]), _vm._v(" "), (_vm.$slots.before || _vm.$slots.after) ? _c('div', {
 	    staticClass: "input-group"
-	  }, [_vm._t("before"), " ", _vm._h(_vm.type == 'textarea' ? _vm.type : 'input', {
+	  }, [_vm._t("before"), _vm._v(" "), _c(_vm.type == 'textarea' ? _vm.type : 'input', {
 	    directives: [{
 	      name: "model",
 	      rawName: "v-model",
@@ -5468,29 +5468,29 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.val = $event.target.value
 	      }, _vm.emit],
 	      "keyup": function($event) {
-	        if ($event.keyCode !== 13) { return; }
+	        if (_vm._k($event.keyCode, "enter", 13)) { return; }
 	        _vm.type != 'textarea' && _vm.enterSubmit && _vm.submit()
 	      }
 	    }
-	  }), " ", (_vm.clearButton && _vm.value) ? _vm._h('div', {
+	  }), _vm._v(" "), (_vm.clearButton && _vm.value) ? _c('div', {
 	    class: {
 	      icon: _vm.icon
 	    }
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    staticClass: "close",
 	    on: {
 	      "click": function($event) {
 	        _vm.value = ''
 	      }
 	    }
-	  }, ["×"])]) : _vm._e(), " ", (_vm.icon) ? _vm._h('div', {
+	  }, [_vm._v("×")])]) : _vm._e(), _vm._v(" "), (_vm.icon) ? _c('div', {
 	    staticClass: "icon"
-	  }, [(_vm.icon && _vm.valid !== null) ? _vm._h('span', {
+	  }, [(_vm.icon && _vm.valid !== null) ? _c('span', {
 	    class: ['form-control-feedback glyphicon', 'glyphicon-' + (_vm.valid ? 'ok' : 'remove')],
 	    attrs: {
 	      "aria-hidden": "true"
 	    }
-	  }) : _vm._e()]) : _vm._e(), " ", _vm._t("after")]) : [_vm._h(_vm.type == 'textarea' ? _vm.type : 'input', {
+	  }) : _vm._e()]) : _vm._e(), _vm._v(" "), _vm._t("after")], true) : [_c(_vm.type == 'textarea' ? _vm.type : 'input', {
 	    directives: [{
 	      name: "model",
 	      rawName: "v-model",
@@ -5527,48 +5527,48 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.val = $event.target.value
 	      }, _vm.emit],
 	      "keyup": function($event) {
-	        if ($event.keyCode !== 13) { return; }
+	        if (_vm._k($event.keyCode, "enter", 13)) { return; }
 	        _vm.type != 'textarea' && _vm.enterSubmit && _vm.submit()
 	      }
 	    }
-	  }), " ", (_vm.clearButton && _vm.val) ? _vm._h('span', {
+	  }), _vm._v(" "), (_vm.clearButton && _vm.val) ? _c('span', {
 	    staticClass: "close",
 	    on: {
 	      "click": function($event) {
 	        _vm.val = ''
 	      }
 	    }
-	  }, ["×"]) : _vm._e(), " ", (_vm.icon && _vm.valid !== null) ? _vm._h('span', {
+	  }, [_vm._v("×")]) : _vm._e(), _vm._v(" "), (_vm.icon && _vm.valid !== null) ? _c('span', {
 	    class: ['form-control-feedback glyphicon', 'glyphicon-' + (_vm.valid ? 'ok' : 'remove')],
 	    attrs: {
 	      "aria-hidden": "true"
 	    }
-	  }) : _vm._e()], " ", " ", (_vm.id_datalist) ? _vm._h('datalist', {
+	  }) : _vm._e()], _vm._v(" "), _vm._v(" "), (_vm.id_datalist) ? _c('datalist', {
 	    attrs: {
 	      "id": _vm.id_datalist
 	    }
-	  }, [_vm._l((_vm.options), function(opc) {
-	    return _vm._h('option', {
+	  }, _vm._l((_vm.options), function(opc) {
+	    return _c('option', {
 	      domProps: {
 	        "value": opc
 	      }
 	    })
-	  })]) : _vm._e(), " ", (_vm.showHelp) ? _vm._h('div', {
+	  })) : _vm._e(), _vm._v(" "), (_vm.showHelp) ? _c('div', {
 	    staticClass: "help-block",
 	    on: {
 	      "click": _vm.focus
 	    }
-	  }, [_vm._s(_vm.help)]) : _vm._e(), " ", (_vm.showError) ? _vm._h('div', {
+	  }, [_vm._v(_vm._s(_vm.help))]) : _vm._e(), _vm._v(" "), (_vm.showError) ? _c('div', {
 	    staticClass: "help-block with-errors",
 	    on: {
 	      "click": _vm.focus
 	    }
-	  }, [_vm._s(_vm.errorText)]) : _vm._e()])
+	  }, [_vm._v(_vm._s(_vm.errorText))]) : _vm._e()], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-652ad7b9", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-14ad57f7", module.exports)
 	  }
 	}
 
@@ -5598,7 +5598,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Modal.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Modal.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -5609,9 +5609,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-fe7d5dc8", __vue_options__)
+	    hotAPI.createRecord("data-v-3043d15a", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-fe7d5dc8", __vue_options__)
+	    hotAPI.reload("data-v-3043d15a", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Modal.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -5635,8 +5635,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-fe7d5dc8!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Modal.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-fe7d5dc8!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Modal.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-3043d15a!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Modal.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-3043d15a!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Modal.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -5806,8 +5806,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 126 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    class: ['modal', _vm.effect],
 	    attrs: {
 	      "role": "dialog"
@@ -5816,7 +5816,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	      "click": _vm.backClose,
 	      "transitionend": _vm.transitionend
 	    }
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    class: {
 	      'modal-dialog': true, 'modal-lg': _vm.large, 'modal-sm': _vm.small
 	    },
@@ -5826,11 +5826,11 @@ return /******/ (function(modules) { // webpackBootstrap
 	    attrs: {
 	      "role": "document"
 	    }
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "modal-content"
-	  }, [_vm._t("modal-header", [_vm._h('div', {
+	  }, [_vm._t("modal-header", [_c('div', {
 	    staticClass: "modal-header"
-	  }, [_vm._h('button', {
+	  }, [_c('button', {
 	    staticClass: "close",
 	    attrs: {
 	      "type": "button"
@@ -5838,13 +5838,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.close
 	    }
-	  }, [_vm._h('span', ["×"])]), " ", _vm._h('h4', {
+	  }, [_c('span', [_vm._v("×")])]), _vm._v(" "), _c('h4', {
 	    staticClass: "modal-title"
-	  }, [_vm._t("title", [_vm._s(_vm.title)])])])]), " ", _vm._t("modal-body", [_vm._h('div', {
+	  }, [_vm._t("title", [_vm._v(_vm._s(_vm.title))])], true)])]), _vm._v(" "), _vm._t("modal-body", [_c('div', {
 	    staticClass: "modal-body"
-	  }, [_vm._t("default")])]), " ", _vm._t("modal-footer", [_vm._h('div', {
+	  }, [_vm._t("default")], true)]), _vm._v(" "), _vm._t("modal-footer", [_c('div', {
 	    staticClass: "modal-footer"
-	  }, [_vm._h('button', {
+	  }, [_c('button', {
 	    staticClass: "btn btn-default",
 	    attrs: {
 	      "type": "button"
@@ -5852,7 +5852,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.close
 	    }
-	  }, [_vm._s(_vm.cancelText)]), " ", _vm._h('button', {
+	  }, [_vm._v(_vm._s(_vm.cancelText))]), _vm._v(" "), _c('button', {
 	    staticClass: "btn btn-primary",
 	    attrs: {
 	      "type": "button"
@@ -5860,12 +5860,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.ok
 	    }
-	  }, [_vm._s(_vm.okText)])])])])])])
+	  }, [_vm._v(_vm._s(_vm.okText))])])])], true)])])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-fe7d5dc8", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-3043d15a", module.exports)
 	  }
 	}
 
@@ -5892,7 +5892,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Navbar.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Navbar.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -5903,9 +5903,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-38f0619e", __vue_options__)
+	    hotAPI.createRecord("data-v-245556b3", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-38f0619e", __vue_options__)
+	    hotAPI.reload("data-v-245556b3", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Navbar.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6040,14 +6040,14 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 129 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('nav', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('nav', {
 	    class: ['navbar', 'navbar-' + _vm.type, _vm.placement === 'static' ? 'navbar-static-top' : 'navbar-fixed-' + _vm.placement]
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "container-fluid"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "navbar-header"
-	  }, [(!_vm.$slots.collapse) ? _vm._h('button', {
+	  }, [(!_vm.$slots.collapse) ? _c('button', {
 	    staticClass: "navbar-toggle collapsed",
 	    attrs: {
 	      "type": "button",
@@ -6056,30 +6056,30 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.toggleCollapse
 	    }
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    staticClass: "sr-only"
-	  }, ["Toggle navigation"]), " ", _vm._h('span', {
+	  }, [_vm._v("Toggle navigation")]), _vm._v(" "), _c('span', {
 	    staticClass: "icon-bar"
-	  }), " ", _vm._h('span', {
+	  }), _vm._v(" "), _c('span', {
 	    staticClass: "icon-bar"
-	  }), " ", _vm._h('span', {
+	  }), _vm._v(" "), _c('span', {
 	    staticClass: "icon-bar"
-	  })]) : _vm._e(), " ", _vm._t("collapse"), " ", _vm._t("brand")]), " ", _vm._h('div', {
+	  })]) : _vm._e(), _vm._v(" "), _vm._t("collapse"), _vm._v(" "), _vm._t("brand")], true), _vm._v(" "), _c('div', {
 	    class: ['navbar-collapse', {
 	      collapse: _vm.collapsed
 	    }]
-	  }, [_vm._h('ul', {
+	  }, [_c('ul', {
 	    staticClass: "nav navbar-nav"
-	  }, [_vm._t("default")]), " ", (_vm.$slots.left) ? _vm._h('ul', {
+	  }, [_vm._t("default")], true), _vm._v(" "), (_vm.$slots.left) ? _c('ul', {
 	    staticClass: "nav navbar-nav navbar-left"
-	  }, [_vm._t("left")]) : _vm._e(), " ", (_vm.$slots.right) ? _vm._h('ul', {
+	  }, [_vm._t("left")], true) : _vm._e(), _vm._v(" "), (_vm.$slots.right) ? _c('ul', {
 	    staticClass: "nav navbar-nav navbar-right"
-	  }, [_vm._t("right")]) : _vm._e()])])])
+	  }, [_vm._t("right")], true) : _vm._e()])])])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-38f0619e", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-245556b3", module.exports)
 	  }
 	}
 
@@ -6106,7 +6106,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Option.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Option.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -6117,9 +6117,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-42088116", __vue_options__)
+	    hotAPI.createRecord("data-v-fa53eed0", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-42088116", __vue_options__)
+	    hotAPI.reload("data-v-fa53eed0", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Option.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6163,13 +6163,13 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 132 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return (_vm.loading) ? _vm._h('li', [_vm._t("default")]) : _vm._e()
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return (_vm.loading) ? _c('li', [_vm._t("default")], true) : _vm._e()
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-42088116", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-fa53eed0", module.exports)
 	  }
 	}
 
@@ -6199,7 +6199,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Panel.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Panel.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -6210,9 +6210,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-b1e0461a", __vue_options__)
+	    hotAPI.createRecord("data-v-56925d31", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-b1e0461a", __vue_options__)
+	    hotAPI.reload("data-v-56925d31", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Panel.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6236,8 +6236,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-b1e0461a!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Panel.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-b1e0461a!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Panel.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-56925d31!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Panel.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-56925d31!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Panel.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -6341,10 +6341,10 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 137 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    class: ['panel', _vm.panelType]
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    class: ['panel-heading', {
 	      'accordion-toggle': _vm.inAccordion
 	    }],
@@ -6354,22 +6354,22 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.inAccordion && _vm.toggle()
 	      }
 	    }
-	  }, [_vm._t("header", [_vm._h('h4', {
+	  }, [_vm._t("header", [_c('h4', {
 	    staticClass: "panel-title"
-	  }, [_vm._s(_vm.header)])])]), " ", _vm._h('transition', {
+	  }, [_vm._v(_vm._s(_vm.header))])])], true), _vm._v(" "), _c('transition', {
 	    attrs: {
 	      "name": "collapse"
 	    }
-	  }, [(_vm.open) ? _vm._h('div', {
+	  }, [(_vm.open) ? _c('div', {
 	    staticClass: "panel-collapse"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "panel-body"
-	  }, [_vm._t("default")])]) : _vm._e()])])
+	  }, [_vm._t("default")], true)]) : _vm._e()])])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-b1e0461a", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-56925d31", module.exports)
 	  }
 	}
 
@@ -6399,7 +6399,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Popover.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Popover.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -6410,9 +6410,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-2465bf54", __vue_options__)
+	    hotAPI.createRecord("data-v-056dafdc", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-2465bf54", __vue_options__)
+	    hotAPI.reload("data-v-056dafdc", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Popover.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6436,8 +6436,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-2465bf54!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Popover.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-2465bf54!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Popover.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-056dafdc!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Popover.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-056dafdc!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Popover.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -6589,31 +6589,31 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 143 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('span', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('span', {
 	    ref: "trigger"
-	  }, [_vm._t("default"), " ", (_vm.show) ? _vm._h('div', {
+	  }, [_vm._t("default"), _vm._v(" "), (_vm.show) ? _c('div', {
 	    ref: "popover",
 	    class: ['popover', _vm.placement],
 	    attrs: {
 	      "transition": _vm.effect
 	    }
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "arrow"
-	  }), " ", (_vm.title) ? _vm._h('h3', {
+	  }), _vm._v(" "), (_vm.title) ? _c('h3', {
 	    staticClass: "popover-title"
-	  }, [_vm._t("title", [_vm._s(_vm.title)])]) : _vm._e(), " ", _vm._h('div', {
+	  }, [_vm._t("title", [_vm._v(_vm._s(_vm.title))])], true) : _vm._e(), _vm._v(" "), _c('div', {
 	    staticClass: "popover-content"
-	  }, [_vm._t("content", [_vm._h('span', {
+	  }, [_vm._t("content", [_c('span', {
 	    domProps: {
 	      "innerHTML": _vm._s(_vm.content)
 	    }
-	  })])])]) : _vm._e()])
+	  })])], true)]) : _vm._e()], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-2465bf54", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-056dafdc", module.exports)
 	  }
 	}
 
@@ -6640,7 +6640,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Progressbar.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Progressbar.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -6651,9 +6651,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-68aa3375", __vue_options__)
+	    hotAPI.createRecord("data-v-47e1e59a", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-68aa3375", __vue_options__)
+	    hotAPI.reload("data-v-47e1e59a", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Progressbar.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6701,8 +6701,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 146 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    class: ['progress-bar', 'progress-bar-' + _vm.type, {
 	      active: _vm.animated,
 	      'progress-bar-striped': _vm.striped
@@ -6718,7 +6718,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-68aa3375", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-47e1e59a", module.exports)
 	  }
 	}
 
@@ -6748,7 +6748,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Radio.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Radio.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -6759,9 +6759,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-74cfd92c", __vue_options__)
+	    hotAPI.createRecord("data-v-751a93a8", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-74cfd92c", __vue_options__)
+	    hotAPI.reload("data-v-751a93a8", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Radio.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6785,8 +6785,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-74cfd92c!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Radio.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-74cfd92c!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Radio.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-751a93a8!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Radio.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-751a93a8!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Radio.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -6937,8 +6937,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 151 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h(_vm.buttonStyle ? 'label' : 'div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c(_vm.buttonStyle ? 'label' : 'div', {
 	    tag: "div",
 	    class: [(_vm.buttonStyle ? 'btn btn-' + _vm.typeColor : 'radio ' + _vm.typeColor), {
 	      active: _vm.active,
@@ -6951,7 +6951,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.toggle($event)
 	      }
 	    }
-	  }, [(_vm.buttonStyle) ? [_vm._h('input', {
+	  }, [(_vm.buttonStyle) ? [_c('input', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -6980,9 +6980,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.check = _vm.checkedValue
 	      }
 	    }
-	  }), " ", _vm._t("default")] : _vm._h('label', {
+	  }), _vm._v(" "), _vm._t("default")] : _c('label', {
 	    staticClass: "open"
-	  }, [_vm._h('input', {
+	  }, [_c('input', {
 	    directives: [{
 	      name: "model",
 	      rawName: "v-model",
@@ -7006,19 +7006,19 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.check = _vm.checkedValue
 	      }
 	    }
-	  }), " ", _vm._h('span', {
+	  }), _vm._v(" "), _c('span', {
 	    staticClass: "icon dropdown-toggle",
 	    class: [_vm.active ? 'btn-' + _vm.typeColor : '', {
 	      bg: _vm.typeColor === 'default'
 	    }]
-	  }), " ", (_vm.active && _vm.typeColor === 'default') ? _vm._h('span', {
+	  }), _vm._v(" "), (_vm.active && _vm.typeColor === 'default') ? _c('span', {
 	    staticClass: "icon"
-	  }) : _vm._e(), " ", _vm._t("default")]), " "])
+	  }) : _vm._e(), _vm._v(" "), _vm._t("default")], true), _vm._v(" ")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-74cfd92c", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-751a93a8", module.exports)
 	  }
 	}
 
@@ -7048,10 +7048,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Select.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Select.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-	__vue_options__._scopeId = "data-v-e514dbc6"
+	__vue_options__._scopeId = "data-v-6379ccc2"
 	
 	/* hot reload */
 	if (false) {(function () {
@@ -7060,9 +7060,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-e514dbc6", __vue_options__)
+	    hotAPI.createRecord("data-v-6379ccc2", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-e514dbc6", __vue_options__)
+	    hotAPI.reload("data-v-6379ccc2", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Select.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -7086,8 +7086,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-e514dbc6&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Select.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-e514dbc6&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Select.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-6379ccc2&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Select.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-6379ccc2&scoped=true!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Select.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -7105,7 +7105,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	
 	// module
-	exports.push([module.id, "\nbutton.form-control.dropdown-toggle[data-v-e514dbc6]{\r\n  height: auto;\r\n  padding-right: 24px;\n}\nbutton.form-control.dropdown-toggle[data-v-e514dbc6]:after{\r\n  content: ' ';\r\n  position: absolute;\r\n  right: 13px;\r\n  top: 50%;\r\n  margin: -1px 0 0;\r\n  border-top: 4px dashed;\r\n  border-top: 4px solid \\9;\r\n  border-right: 4px solid transparent;\r\n  border-left: 4px solid transparent;\n}\n.bs-searchbox[data-v-e514dbc6] {\r\n  position: relative;\r\n  margin: 4px 8px;\n}\n.bs-searchbox .close[data-v-e514dbc6] {\r\n  position: absolute;\r\n  top: 0;\r\n  right: 0;\r\n  z-index: 2;\r\n  display: block;\r\n  width: 34px;\r\n  height: 34px;\r\n  line-height: 34px;\r\n  text-align: center;\n}\n.bs-searchbox input[data-v-e514dbc6]:focus,\r\n.secret:focus + button[data-v-e514dbc6] {\r\n  outline: 0;\r\n  border-color: #66afe9 !important;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);\n}\n.secret[data-v-e514dbc6] {\r\n  border: 0;\r\n  clip: rect(0 0 0 0);\r\n  height: 1px;\r\n  margin: -1px;\r\n  overflow: hidden;\r\n  padding: 0;\r\n  position: absolute;\r\n  width: 1px;\n}\nbutton>.close[data-v-e514dbc6] { margin-left: 5px;\n}\n.notify.out[data-v-e514dbc6] { position: relative;\n}\n.notify.in[data-v-e514dbc6],\r\n.notify>div[data-v-e514dbc6] {\r\n  position: absolute;\r\n  width: 96%;\r\n  margin: 0 2%;\r\n  min-height: 26px;\r\n  padding: 3px 5px;\r\n  background: #f5f5f5;\r\n  border: 1px solid #e3e3e3;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.05);\r\n  pointer-events: none;\n}\n.notify>div[data-v-e514dbc6] {\r\n  top: 5px;\r\n  z-index: 1;\n}\n.notify.in[data-v-e514dbc6] {\r\n  opacity: .9;\r\n  bottom: 5px;\n}\n.btn-group-justified .dropdown-toggle>span[data-v-e514dbc6]:not(.close) {\r\n  width: calc(100% - 18px);\r\n  display: inline-block;\r\n  overflow: hidden;\r\n  white-space: nowrap;\r\n  text-overflow: ellipsis;\r\n  margin-bottom: -4px;\n}\n.btn-group-justified .dropdown-menu[data-v-e514dbc6] { width: 100%;\n}\r\n", "", {"version":3,"sources":["/./src/Select.vue?66fa45d9"],"names":[],"mappings":";AA4PA;EACA,aAAA;EACA,oBAAA;CACA;AACA;EACA,aAAA;EACA,mBAAA;EACA,YAAA;EACA,SAAA;EACA,iBAAA;EACA,uBAAA;EACA,yBAAA;EACA,oCAAA;EACA,mCAAA;CACA;AACA;EACA,mBAAA;EACA,gBAAA;CACA;AACA;EACA,mBAAA;EACA,OAAA;EACA,SAAA;EACA,WAAA;EACA,eAAA;EACA,YAAA;EACA,aAAA;EACA,kBAAA;EACA,mBAAA;CACA;AACA;;EAEA,WAAA;EACA,iCAAA;EACA,0EAAA;CACA;AACA;EACA,UAAA;EACA,oBAAA;EACA,YAAA;EACA,aAAA;EACA,iBAAA;EACA,WAAA;EACA,mBAAA;EACA,WAAA;CACA;AACA,iCAAA,iBAAA;CAAA;AACA,+BAAA,mBAAA;CAAA;AACA;;EAEA,mBAAA;EACA,WAAA;EACA,aAAA;EACA,iBAAA;EACA,iBAAA;EACA,oBAAA;EACA,0BAAA;EACA,4CAAA;EACA,qBAAA;CACA;AACA;EACA,SAAA;EACA,WAAA;CACA;AACA;EACA,YAAA;EACA,YAAA;CACA;AACA;EACA,yBAAA;EACA,sBAAA;EACA,iBAAA;EACA,oBAAA;EACA,wBAAA;EACA,oBAAA;CACA;AACA,uDAAA,YAAA;CAAA","file":"Select.vue","sourcesContent":["<template>\r\n  <div ref=\"select\" :class=\"classes\" v-click-outside=\"blur\">\r\n    <button type=\"button\" class=\"form-control dropdown-toggle\"\r\n      :disabled=\"disabled || !hasParent\"\r\n      :readonly=\"readonly\"\r\n      @click=\"toggle()\"\r\n      @keyup.esc=\"show = false\"\r\n    >\r\n      <span class=\"btn-content\" v-html=\"loading ? text.loading : showPlaceholder || selected\"></span>\r\n      <span v-if=\"clearButton&&values.length\" class=\"close\" @click=\"clear()\">&times;</span>\r\n    </button>\r\n    <select ref=\"sel\" v-model=\"val\" v-show=\"show\" :name=\"name\" class=\"secret\" :multiple=\"multiple\" :required=\"required\" :readonly=\"readonly\" :disabled=\"disabled\">\r\n      <option v-if=\"required\" value=\"\"></option>\r\n      <option v-for=\"option in list\" :value=\"option[optionsValue]\">{{ option[optionsLabel] }}</option>\r\n    </select>\r\n    <ul class=\"dropdown-menu\">\r\n      <template v-if=\"list.length\">\r\n        <li v-if=\"canSearch\" class=\"bs-searchbox\">\r\n          <input type=\"text\" :placeholder=\"searchText||text.search\" class=\"form-control\" autocomplete=\"off\" ref=\"search\"\r\n            v-model=\"searchValue\"\r\n            @keyup.esc=\"show = false\"\r\n          />\r\n          <span v-show=\"searchValue\" class=\"close\" @click=\"clearSearch\">&times;</span>\r\n        </li>\r\n        <li v-if=\"required&&!clearButton\"><a @mousedown.prevent=\"clear() && blur()\">{{ placeholder || text.notSelected }}</a></li>\r\n        <li v-for=\"option in filteredOptions\" :id=\"option[optionsValue]\">\r\n          <a @mousedown.prevent=\"select(option[optionsValue])\">\r\n            <span v-html=\"option[optionsLabel]\"></span>\r\n            <span class=\"glyphicon glyphicon-ok check-mark\" v-show=\"isSelected(option[optionsValue])\"></span>\r\n          </a>\r\n        </li>\r\n      </template>\r\n      <slot></slot>\r\n      <transition v-if=\"notify && !closeOnSelect\" name=\"fadein\"><div class=\"notify in\">{{limitText}}</div></transition>\r\n    </ul>\r\n    <transition v-if=\"notify && closeOnSelect\" name=\"fadein\"><div class=\"notify out\"><div>{{limitText}}</div></div></transition>\r\n    <!-- <pre>Options: {{list}}</pre> -->\r\n  </div>\r\n</template>\r\n\r\n<script>\r\nimport {translations} from './utils/utils.js'\r\nimport ClickOutside from './directives/ClickOutside.js'\r\n\r\nvar timeout = {}\r\nexport default {\r\n  directives: {\r\n    ClickOutside\r\n  },\r\n  props: {\r\n    clearButton: {type: Boolean, default: false},\r\n    closeOnSelect: {type: Boolean, default: false},\r\n    disabled: {type: Boolean, default: false},\r\n    lang: {type: String, default: navigator.language},\r\n    limit: {type: Number, default: 1024},\r\n    minSearch: {type: Number, default: 0},\r\n    multiple: {type: Boolean, default: false},\r\n    name: {type: String, default: null},\r\n    options: {type: Array, default () { return [] }},\r\n    optionsLabel: {type: String, default: 'label'},\r\n    optionsValue: {type: String, default: 'value'},\r\n    parent: {default: true},\r\n    placeholder: {type: String, default: null},\r\n    readonly: {type: Boolean, default: null},\r\n    required: {type: Boolean, default: null},\r\n    search: {type: Boolean, default: false},\r\n    searchText: {type: String, default: null},\r\n    url: {type: String, default: null},\r\n    value: null\r\n  },\r\n  data () {\r\n    return {\r\n      list: [],\r\n      loading: null,\r\n      searchValue: null,\r\n      show: false,\r\n      notify: false,\r\n      val: null,\r\n      valid: null\r\n    }\r\n  },\r\n  computed: {\r\n    canSearch () { return this.minSearch ? this.list.length >= this.minSearch : this.search },\r\n    classes () { return [{open: this.show, disabled: this.disabled}, this.class, this.isLi ? 'dropdown' : this.inInput ? 'input-group-btn' : 'btn-group'] },\r\n    filteredOptions () {\r\n      var search = (this.searchValue || '').toLowerCase()\r\n      return !search ? this.list : this.list.filter(el => {\r\n        return ~el[this.optionsValue].toLowerCase().search(search)\r\n      })\r\n    },\r\n    hasParent () { return this.parent instanceof Array ? this.parent.length : this.parent },\r\n    inInput () { return this.$parent._input },\r\n    isLi () { return this.$parent._navbar || this.$parent.menu || this.$parent._tabset },\r\n    limitText () { return this.text.limit.replace('{{limit}}', this.limit) },\r\n    selected () {\r\n      if (this.list.length === 0) { return '' }\r\n      var sel = this.values.map(val => (this.list.find(o => o[this.optionsValue] === val) || {})[this.optionsLabel]).filter(val => val !== undefined)\r\n      this.$emit('selected', sel)\r\n      return sel.join(', ')\r\n    },\r\n    showPlaceholder () { return (this.values.length === 0 || !this.hasParent) ? (this.placeholder || this.text.notSelected) : null },\r\n    text () { return translations(this.lang) },\r\n    values () { return this.val instanceof Array ? this.val : ~[null, undefined].indexOf(this.val) ? [] : [this.val] },\r\n    valOptions () { return this.list.map(el => el[this.optionsValue]) }\r\n  },\r\n  watch: {\r\n    options (options) {\r\n      if (options instanceof Array) this.setOptions(options)\r\n    },\r\n    show (val) {\r\n      if (val) {\r\n        this.$refs.sel.focus()\r\n        this.$refs.search && this.$refs.search.focus()\r\n        // onBlur(this.$refs.select, e => { this.show = false })\r\n      } else {\r\n        // offBlur(this.$refs.select)\r\n      }\r\n    },\r\n    url () {\r\n      this.urlChanged()\r\n    },\r\n    valid (val, old) {\r\n      this.$emit('isvalid', val)\r\n      this.$emit(!val ? 'invalid' : 'valid')\r\n      if (val !== old && this._parent) this._parent.validate()\r\n    },\r\n    value (val, old) {\r\n      if (val !== old) { this.val = val }\r\n    },\r\n    val (val, old) {\r\n      if (val !== old) {\r\n        this.$emit('change', val)\r\n        this.$emit('input', val)\r\n      }\r\n      if (val instanceof Array && val.length > this.limit) {\r\n        this.val = val.slice(0, this.limit)\r\n        this.notify = true\r\n        if (timeout.limit) clearTimeout(timeout.limit)\r\n        timeout.limit = setTimeout(() => {\r\n          timeout.limit = false\r\n          this.notify = false\r\n        }, 1500)\r\n      }\r\n      this.valid = this.validate()\r\n    }\r\n  },\r\n  methods: {\r\n    blur () {\r\n      this.show = false\r\n    },\r\n    checkData () {\r\n      if (this.multiple) {\r\n        if (this.limit < 1) { this.limit = 1 }\r\n        if (!(this.val instanceof Array)) {\r\n          this.val = (this.val === null || this.val === undefined) ? [] : [this.val]\r\n        }\r\n        var values = this.valOptions\r\n        this.val = this.val.filter(el => ~values.indexOf(el))\r\n        if (this.values.length > this.limit) {\r\n          this.val = this.val.slice(0, this.limit)\r\n        }\r\n      } else {\r\n        if (!~this.valOptions.indexOf(this.val)) { this.val = null }\r\n      }\r\n    },\r\n    clear () {\r\n      if (this.disabled || this.readonly) { return }\r\n      this.val = this.val instanceof Array ? [] : null\r\n      this.toggle()\r\n    },\r\n    clearSearch () {\r\n      this.searchValue = ''\r\n      this.$refs.search.focus()\r\n    },\r\n    isSelected (v) {\r\n      return this.values.indexOf(v) > -1\r\n    },\r\n    select (v) {\r\n      if (this.val instanceof Array) {\r\n        if (~this.val.indexOf(v)) {\r\n          var index = this.val.indexOf(v)\r\n          this.val.splice(index, 1)\r\n        } else {\r\n          this.val.push(v)\r\n        }\r\n        if (this.closeOnSelect) {\r\n          this.toggle()\r\n        }\r\n      } else {\r\n        this.val = v\r\n        this.toggle()\r\n      }\r\n    },\r\n    setOptions (options) {\r\n      this.list = options.map(el => {\r\n        if (el instanceof Object) { return el }\r\n        let obj = {}\r\n        obj[this.optionsLabel] = el\r\n        obj[this.optionsValue] = el\r\n        return obj\r\n      })\r\n      this.$emit('options', this.list)\r\n    },\r\n    toggle () {\r\n      this.show = !this.show\r\n    },\r\n    urlChanged () {\r\n      if (!this.url || !this.$http) { return }\r\n      this.loading = true\r\n      this.$http.get(this.url).then(response => {\r\n        var data = response.data instanceof Array ? response.data : []\r\n        try { data = JSON.parse(data) } catch (e) {}\r\n        this.setOptions(data)\r\n        this.loading = false\r\n        this.checkData()\r\n      }, response => {\r\n        this.loading = false\r\n      })\r\n    },\r\n    validate () {\r\n      return !this.required ? true : this.val instanceof Array ? this.val.length > 0 : this.val !== null\r\n    }\r\n  },\r\n  created () {\r\n    this.setOptions(this.options)\r\n    this.val = this.value\r\n    this._select = true\r\n    if (this.val === undefined || !this.parent) { this.val = null }\r\n    if (!this.multiple && this.val instanceof Array) {\r\n      this.val = this.val[0]\r\n    }\r\n    this.checkData()\r\n    if (this.url) this.urlChanged()\r\n    let parent = this.$parent\r\n    while (parent && !parent._formGroup) { parent = parent.$parent }\r\n    if (parent && parent._formGroup) {\r\n      this._parent = parent\r\n    }\r\n  },\r\n  mounted () {\r\n    if (this._parent) this._parent.children.push(this)\r\n  },\r\n  beforeDestroy () {\r\n    if (this._parent) {\r\n      var index = this._parent.children.indexOf(this)\r\n      this._parent.children.splice(index, 1)\r\n    }\r\n  }\r\n}\r\n</script>\r\n\r\n<style scoped>\r\nbutton.form-control.dropdown-toggle{\r\n  height: auto;\r\n  padding-right: 24px;\r\n}\r\nbutton.form-control.dropdown-toggle:after{\r\n  content: ' ';\r\n  position: absolute;\r\n  right: 13px;\r\n  top: 50%;\r\n  margin: -1px 0 0;\r\n  border-top: 4px dashed;\r\n  border-top: 4px solid \\9;\r\n  border-right: 4px solid transparent;\r\n  border-left: 4px solid transparent;\r\n}\r\n.bs-searchbox {\r\n  position: relative;\r\n  margin: 4px 8px;\r\n}\r\n.bs-searchbox .close {\r\n  position: absolute;\r\n  top: 0;\r\n  right: 0;\r\n  z-index: 2;\r\n  display: block;\r\n  width: 34px;\r\n  height: 34px;\r\n  line-height: 34px;\r\n  text-align: center;\r\n}\r\n.bs-searchbox input:focus,\r\n.secret:focus + button {\r\n  outline: 0;\r\n  border-color: #66afe9 !important;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);\r\n}\r\n.secret {\r\n  border: 0;\r\n  clip: rect(0 0 0 0);\r\n  height: 1px;\r\n  margin: -1px;\r\n  overflow: hidden;\r\n  padding: 0;\r\n  position: absolute;\r\n  width: 1px;\r\n}\r\nbutton>.close { margin-left: 5px;}\r\n.notify.out { position: relative; }\r\n.notify.in,\r\n.notify>div {\r\n  position: absolute;\r\n  width: 96%;\r\n  margin: 0 2%;\r\n  min-height: 26px;\r\n  padding: 3px 5px;\r\n  background: #f5f5f5;\r\n  border: 1px solid #e3e3e3;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.05);\r\n  pointer-events: none;\r\n}\r\n.notify>div {\r\n  top: 5px;\r\n  z-index: 1;\r\n}\r\n.notify.in {\r\n  opacity: .9;\r\n  bottom: 5px;\r\n}\r\n.btn-group-justified .dropdown-toggle>span:not(.close) {\r\n  width: calc(100% - 18px);\r\n  display: inline-block;\r\n  overflow: hidden;\r\n  white-space: nowrap;\r\n  text-overflow: ellipsis;\r\n  margin-bottom: -4px;\r\n}\r\n.btn-group-justified .dropdown-menu { width: 100%; }\r\n</style>\r\n"],"sourceRoot":"webpack://"}]);
+	exports.push([module.id, "\nbutton.form-control.dropdown-toggle[data-v-6379ccc2]{\r\n  height: auto;\r\n  padding-right: 24px;\n}\nbutton.form-control.dropdown-toggle[data-v-6379ccc2]:after{\r\n  content: ' ';\r\n  position: absolute;\r\n  right: 13px;\r\n  top: 50%;\r\n  margin: -1px 0 0;\r\n  border-top: 4px dashed;\r\n  border-top: 4px solid \\9;\r\n  border-right: 4px solid transparent;\r\n  border-left: 4px solid transparent;\n}\n.bs-searchbox[data-v-6379ccc2] {\r\n  position: relative;\r\n  margin: 4px 8px;\n}\n.bs-searchbox .close[data-v-6379ccc2] {\r\n  position: absolute;\r\n  top: 0;\r\n  right: 0;\r\n  z-index: 2;\r\n  display: block;\r\n  width: 34px;\r\n  height: 34px;\r\n  line-height: 34px;\r\n  text-align: center;\n}\n.bs-searchbox input[data-v-6379ccc2]:focus,\r\n.secret:focus + button[data-v-6379ccc2] {\r\n  outline: 0;\r\n  border-color: #66afe9 !important;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);\n}\n.secret[data-v-6379ccc2] {\r\n  border: 0;\r\n  clip: rect(0 0 0 0);\r\n  height: 1px;\r\n  margin: -1px;\r\n  overflow: hidden;\r\n  padding: 0;\r\n  position: absolute;\r\n  width: 1px;\n}\nbutton>.close[data-v-6379ccc2] { margin-left: 5px;\n}\n.notify.out[data-v-6379ccc2] { position: relative;\n}\n.notify.in[data-v-6379ccc2],\r\n.notify>div[data-v-6379ccc2] {\r\n  position: absolute;\r\n  width: 96%;\r\n  margin: 0 2%;\r\n  min-height: 26px;\r\n  padding: 3px 5px;\r\n  background: #f5f5f5;\r\n  border: 1px solid #e3e3e3;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.05);\r\n  pointer-events: none;\n}\n.notify>div[data-v-6379ccc2] {\r\n  top: 5px;\r\n  z-index: 1;\n}\n.notify.in[data-v-6379ccc2] {\r\n  opacity: .9;\r\n  bottom: 5px;\n}\n.btn-group-justified .dropdown-toggle>span[data-v-6379ccc2]:not(.close) {\r\n  width: calc(100% - 18px);\r\n  display: inline-block;\r\n  overflow: hidden;\r\n  white-space: nowrap;\r\n  text-overflow: ellipsis;\r\n  margin-bottom: -4px;\n}\n.btn-group-justified .dropdown-menu[data-v-6379ccc2] { width: 100%;\n}\r\n", "", {"version":3,"sources":["/./src/Select.vue?66fa45d9"],"names":[],"mappings":";AA4PA;EACA,aAAA;EACA,oBAAA;CACA;AACA;EACA,aAAA;EACA,mBAAA;EACA,YAAA;EACA,SAAA;EACA,iBAAA;EACA,uBAAA;EACA,yBAAA;EACA,oCAAA;EACA,mCAAA;CACA;AACA;EACA,mBAAA;EACA,gBAAA;CACA;AACA;EACA,mBAAA;EACA,OAAA;EACA,SAAA;EACA,WAAA;EACA,eAAA;EACA,YAAA;EACA,aAAA;EACA,kBAAA;EACA,mBAAA;CACA;AACA;;EAEA,WAAA;EACA,iCAAA;EACA,0EAAA;CACA;AACA;EACA,UAAA;EACA,oBAAA;EACA,YAAA;EACA,aAAA;EACA,iBAAA;EACA,WAAA;EACA,mBAAA;EACA,WAAA;CACA;AACA,iCAAA,iBAAA;CAAA;AACA,+BAAA,mBAAA;CAAA;AACA;;EAEA,mBAAA;EACA,WAAA;EACA,aAAA;EACA,iBAAA;EACA,iBAAA;EACA,oBAAA;EACA,0BAAA;EACA,4CAAA;EACA,qBAAA;CACA;AACA;EACA,SAAA;EACA,WAAA;CACA;AACA;EACA,YAAA;EACA,YAAA;CACA;AACA;EACA,yBAAA;EACA,sBAAA;EACA,iBAAA;EACA,oBAAA;EACA,wBAAA;EACA,oBAAA;CACA;AACA,uDAAA,YAAA;CAAA","file":"Select.vue","sourcesContent":["<template>\r\n  <div ref=\"select\" :class=\"classes\" v-click-outside=\"blur\">\r\n    <button type=\"button\" class=\"form-control dropdown-toggle\"\r\n      :disabled=\"disabled || !hasParent\"\r\n      :readonly=\"readonly\"\r\n      @click=\"toggle()\"\r\n      @keyup.esc=\"show = false\"\r\n    >\r\n      <span class=\"btn-content\" v-html=\"loading ? text.loading : showPlaceholder || selected\"></span>\r\n      <span v-if=\"clearButton&&values.length\" class=\"close\" @click=\"clear()\">&times;</span>\r\n    </button>\r\n    <select ref=\"sel\" v-model=\"val\" v-show=\"show\" :name=\"name\" class=\"secret\" :multiple=\"multiple\" :required=\"required\" :readonly=\"readonly\" :disabled=\"disabled\">\r\n      <option v-if=\"required\" value=\"\"></option>\r\n      <option v-for=\"option in list\" :value=\"option[optionsValue]\">{{ option[optionsLabel] }}</option>\r\n    </select>\r\n    <ul class=\"dropdown-menu\">\r\n      <template v-if=\"list.length\">\r\n        <li v-if=\"canSearch\" class=\"bs-searchbox\">\r\n          <input type=\"text\" :placeholder=\"searchText||text.search\" class=\"form-control\" autocomplete=\"off\" ref=\"search\"\r\n            v-model=\"searchValue\"\r\n            @keyup.esc=\"show = false\"\r\n          />\r\n          <span v-show=\"searchValue\" class=\"close\" @click=\"clearSearch\">&times;</span>\r\n        </li>\r\n        <li v-if=\"required&&!clearButton\"><a @mousedown.prevent=\"clear() && blur()\">{{ placeholder || text.notSelected }}</a></li>\r\n        <li v-for=\"option in filteredOptions\" :id=\"option[optionsValue]\">\r\n          <a @mousedown.prevent=\"select(option[optionsValue])\">\r\n            <span v-html=\"option[optionsLabel]\"></span>\r\n            <span class=\"glyphicon glyphicon-ok check-mark\" v-show=\"isSelected(option[optionsValue])\"></span>\r\n          </a>\r\n        </li>\r\n      </template>\r\n      <slot></slot>\r\n      <transition v-if=\"notify && !closeOnSelect\" name=\"fadein\"><div class=\"notify in\">{{limitText}}</div></transition>\r\n    </ul>\r\n    <transition v-if=\"notify && closeOnSelect\" name=\"fadein\"><div class=\"notify out\"><div>{{limitText}}</div></div></transition>\r\n    <!-- <pre>Options: {{list}}</pre> -->\r\n  </div>\r\n</template>\r\n\r\n<script>\r\nimport {translations} from './utils/utils.js'\r\nimport ClickOutside from './directives/ClickOutside.js'\r\n\r\nvar timeout = {}\r\nexport default {\r\n  directives: {\r\n    ClickOutside\r\n  },\r\n  props: {\r\n    clearButton: {type: Boolean, default: false},\r\n    closeOnSelect: {type: Boolean, default: false},\r\n    disabled: {type: Boolean, default: false},\r\n    lang: {type: String, default: navigator.language},\r\n    limit: {type: Number, default: 1024},\r\n    minSearch: {type: Number, default: 0},\r\n    multiple: {type: Boolean, default: false},\r\n    name: {type: String, default: null},\r\n    options: {type: Array, default () { return [] }},\r\n    optionsLabel: {type: String, default: 'label'},\r\n    optionsValue: {type: String, default: 'value'},\r\n    parent: {default: true},\r\n    placeholder: {type: String, default: null},\r\n    readonly: {type: Boolean, default: null},\r\n    required: {type: Boolean, default: null},\r\n    search: {type: Boolean, default: false},\r\n    searchText: {type: String, default: null},\r\n    url: {type: String, default: null},\r\n    value: null\r\n  },\r\n  data () {\r\n    return {\r\n      list: [],\r\n      loading: null,\r\n      searchValue: null,\r\n      show: false,\r\n      notify: false,\r\n      val: null,\r\n      valid: null\r\n    }\r\n  },\r\n  computed: {\r\n    canSearch () { return this.minSearch ? this.list.length >= this.minSearch : this.search },\r\n    classes () { return [{open: this.show, disabled: this.disabled}, this.class, this.isLi ? 'dropdown' : this.inInput ? 'input-group-btn' : 'btn-group'] },\r\n    filteredOptions () {\r\n      var search = (this.searchValue || '').toLowerCase()\r\n      return !search ? this.list : this.list.filter(el => {\r\n        return ~el[this.optionsValue].toLowerCase().search(search)\r\n      })\r\n    },\r\n    hasParent () { return this.parent instanceof Array ? this.parent.length : this.parent },\r\n    inInput () { return this.$parent._input },\r\n    isLi () { return this.$parent._navbar || this.$parent.menu || this.$parent._tabset },\r\n    limitText () { return this.text.limit.replace('{{limit}}', this.limit) },\r\n    selected () {\r\n      if (this.list.length === 0) { return '' }\r\n      var sel = this.values.map(val => (this.list.find(o => o[this.optionsValue] === val) || {})[this.optionsLabel]).filter(val => val !== undefined)\r\n      this.$emit('selected', sel)\r\n      return sel.join(', ')\r\n    },\r\n    showPlaceholder () { return (this.values.length === 0 || !this.hasParent) ? (this.placeholder || this.text.notSelected) : null },\r\n    text () { return translations(this.lang) },\r\n    values () { return this.val instanceof Array ? this.val : ~[null, undefined].indexOf(this.val) ? [] : [this.val] },\r\n    valOptions () { return this.list.map(el => el[this.optionsValue]) }\r\n  },\r\n  watch: {\r\n    options (options) {\r\n      if (options instanceof Array) this.setOptions(options)\r\n    },\r\n    show (val) {\r\n      if (val) {\r\n        this.$refs.sel.focus()\r\n        this.$refs.search && this.$refs.search.focus()\r\n        // onBlur(this.$refs.select, e => { this.show = false })\r\n      } else {\r\n        // offBlur(this.$refs.select)\r\n      }\r\n    },\r\n    url () {\r\n      this.urlChanged()\r\n    },\r\n    valid (val, old) {\r\n      this.$emit('isvalid', val)\r\n      this.$emit(!val ? 'invalid' : 'valid')\r\n      if (val !== old && this._parent) this._parent.validate()\r\n    },\r\n    value (val, old) {\r\n      if (val !== old) { this.val = val }\r\n    },\r\n    val (val, old) {\r\n      if (val !== old) {\r\n        this.$emit('change', val)\r\n        this.$emit('input', val)\r\n      }\r\n      if (val instanceof Array && val.length > this.limit) {\r\n        this.val = val.slice(0, this.limit)\r\n        this.notify = true\r\n        if (timeout.limit) clearTimeout(timeout.limit)\r\n        timeout.limit = setTimeout(() => {\r\n          timeout.limit = false\r\n          this.notify = false\r\n        }, 1500)\r\n      }\r\n      this.valid = this.validate()\r\n    }\r\n  },\r\n  methods: {\r\n    blur () {\r\n      this.show = false\r\n    },\r\n    checkData () {\r\n      if (this.multiple) {\r\n        if (this.limit < 1) { this.limit = 1 }\r\n        if (!(this.val instanceof Array)) {\r\n          this.val = (this.val === null || this.val === undefined) ? [] : [this.val]\r\n        }\r\n        var values = this.valOptions\r\n        this.val = this.val.filter(el => ~values.indexOf(el))\r\n        if (this.values.length > this.limit) {\r\n          this.val = this.val.slice(0, this.limit)\r\n        }\r\n      } else {\r\n        if (!~this.valOptions.indexOf(this.val)) { this.val = null }\r\n      }\r\n    },\r\n    clear () {\r\n      if (this.disabled || this.readonly) { return }\r\n      this.val = this.val instanceof Array ? [] : null\r\n      this.toggle()\r\n    },\r\n    clearSearch () {\r\n      this.searchValue = ''\r\n      this.$refs.search.focus()\r\n    },\r\n    isSelected (v) {\r\n      return this.values.indexOf(v) > -1\r\n    },\r\n    select (v) {\r\n      if (this.val instanceof Array) {\r\n        if (~this.val.indexOf(v)) {\r\n          var index = this.val.indexOf(v)\r\n          this.val.splice(index, 1)\r\n        } else {\r\n          this.val.push(v)\r\n        }\r\n        if (this.closeOnSelect) {\r\n          this.toggle()\r\n        }\r\n      } else {\r\n        this.val = v\r\n        this.toggle()\r\n      }\r\n    },\r\n    setOptions (options) {\r\n      this.list = options.map(el => {\r\n        if (el instanceof Object) { return el }\r\n        let obj = {}\r\n        obj[this.optionsLabel] = el\r\n        obj[this.optionsValue] = el\r\n        return obj\r\n      })\r\n      this.$emit('options', this.list)\r\n    },\r\n    toggle () {\r\n      this.show = !this.show\r\n    },\r\n    urlChanged () {\r\n      if (!this.url || !this.$http) { return }\r\n      this.loading = true\r\n      this.$http.get(this.url).then(response => {\r\n        var data = response.data instanceof Array ? response.data : []\r\n        try { data = JSON.parse(data) } catch (e) {}\r\n        this.setOptions(data)\r\n        this.loading = false\r\n        this.checkData()\r\n      }, response => {\r\n        this.loading = false\r\n      })\r\n    },\r\n    validate () {\r\n      return !this.required ? true : this.val instanceof Array ? this.val.length > 0 : this.val !== null\r\n    }\r\n  },\r\n  created () {\r\n    this.setOptions(this.options)\r\n    this.val = this.value\r\n    this._select = true\r\n    if (this.val === undefined || !this.parent) { this.val = null }\r\n    if (!this.multiple && this.val instanceof Array) {\r\n      this.val = this.val[0]\r\n    }\r\n    this.checkData()\r\n    if (this.url) this.urlChanged()\r\n    let parent = this.$parent\r\n    while (parent && !parent._formGroup) { parent = parent.$parent }\r\n    if (parent && parent._formGroup) {\r\n      this._parent = parent\r\n    }\r\n  },\r\n  mounted () {\r\n    if (this._parent) this._parent.children.push(this)\r\n  },\r\n  beforeDestroy () {\r\n    if (this._parent) {\r\n      var index = this._parent.children.indexOf(this)\r\n      this._parent.children.splice(index, 1)\r\n    }\r\n  }\r\n}\r\n</script>\r\n\r\n<style scoped>\r\nbutton.form-control.dropdown-toggle{\r\n  height: auto;\r\n  padding-right: 24px;\r\n}\r\nbutton.form-control.dropdown-toggle:after{\r\n  content: ' ';\r\n  position: absolute;\r\n  right: 13px;\r\n  top: 50%;\r\n  margin: -1px 0 0;\r\n  border-top: 4px dashed;\r\n  border-top: 4px solid \\9;\r\n  border-right: 4px solid transparent;\r\n  border-left: 4px solid transparent;\r\n}\r\n.bs-searchbox {\r\n  position: relative;\r\n  margin: 4px 8px;\r\n}\r\n.bs-searchbox .close {\r\n  position: absolute;\r\n  top: 0;\r\n  right: 0;\r\n  z-index: 2;\r\n  display: block;\r\n  width: 34px;\r\n  height: 34px;\r\n  line-height: 34px;\r\n  text-align: center;\r\n}\r\n.bs-searchbox input:focus,\r\n.secret:focus + button {\r\n  outline: 0;\r\n  border-color: #66afe9 !important;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);\r\n}\r\n.secret {\r\n  border: 0;\r\n  clip: rect(0 0 0 0);\r\n  height: 1px;\r\n  margin: -1px;\r\n  overflow: hidden;\r\n  padding: 0;\r\n  position: absolute;\r\n  width: 1px;\r\n}\r\nbutton>.close { margin-left: 5px;}\r\n.notify.out { position: relative; }\r\n.notify.in,\r\n.notify>div {\r\n  position: absolute;\r\n  width: 96%;\r\n  margin: 0 2%;\r\n  min-height: 26px;\r\n  padding: 3px 5px;\r\n  background: #f5f5f5;\r\n  border: 1px solid #e3e3e3;\r\n  box-shadow: inset 0 1px 1px rgba(0,0,0,.05);\r\n  pointer-events: none;\r\n}\r\n.notify>div {\r\n  top: 5px;\r\n  z-index: 1;\r\n}\r\n.notify.in {\r\n  opacity: .9;\r\n  bottom: 5px;\r\n}\r\n.btn-group-justified .dropdown-toggle>span:not(.close) {\r\n  width: calc(100% - 18px);\r\n  display: inline-block;\r\n  overflow: hidden;\r\n  white-space: nowrap;\r\n  text-overflow: ellipsis;\r\n  margin-bottom: -4px;\r\n}\r\n.btn-group-justified .dropdown-menu { width: 100%; }\r\n</style>\r\n"],"sourceRoot":"webpack://"}]);
 	
 	// exports
 
@@ -7445,8 +7445,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 156 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    directives: [{
 	      name: "click-outside",
 	      rawName: "v-click-outside",
@@ -7455,7 +7455,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    }],
 	    ref: "select",
 	    class: _vm.classes
-	  }, [_vm._h('button', {
+	  }, [_c('button', {
 	    staticClass: "form-control dropdown-toggle",
 	    attrs: {
 	      "type": "button",
@@ -7467,23 +7467,23 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.toggle()
 	      },
 	      "keyup": function($event) {
-	        if ($event.keyCode !== 27) { return; }
+	        if (_vm._k($event.keyCode, "esc", 27)) { return; }
 	        _vm.show = false
 	      }
 	    }
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    staticClass: "btn-content",
 	    domProps: {
 	      "innerHTML": _vm._s(_vm.loading ? _vm.text.loading : _vm.showPlaceholder || _vm.selected)
 	    }
-	  }), " ", (_vm.clearButton && _vm.values.length) ? _vm._h('span', {
+	  }), _vm._v(" "), (_vm.clearButton && _vm.values.length) ? _c('span', {
 	    staticClass: "close",
 	    on: {
 	      "click": function($event) {
 	        _vm.clear()
 	      }
 	    }
-	  }, ["×"]) : _vm._e()]), " ", _vm._h('select', {
+	  }, [_vm._v("×")]) : _vm._e()]), _vm._v(" "), _c('select', {
 	    directives: [{
 	      name: "model",
 	      rawName: "v-model",
@@ -7514,21 +7514,21 @@ return /******/ (function(modules) { // webpackBootstrap
 	        })[0]
 	      }
 	    }
-	  }, [(_vm.required) ? _vm._h('option', {
+	  }, [(_vm.required) ? _c('option', {
 	    attrs: {
 	      "value": ""
 	    }
-	  }) : _vm._e(), " ", _vm._l((_vm.list), function(option) {
-	    return _vm._h('option', {
+	  }) : _vm._e(), _vm._v(" "), _vm._l((_vm.list), function(option) {
+	    return _c('option', {
 	      domProps: {
 	        "value": option[_vm.optionsValue]
 	      }
-	    }, [_vm._s(option[_vm.optionsLabel])])
-	  })]), " ", _vm._h('ul', {
+	    }, [_vm._v(_vm._s(option[_vm.optionsLabel]))])
+	  })], true), _vm._v(" "), _c('ul', {
 	    staticClass: "dropdown-menu"
-	  }, [(_vm.list.length) ? [(_vm.canSearch) ? _vm._h('li', {
+	  }, [(_vm.list.length) ? [(_vm.canSearch) ? _c('li', {
 	    staticClass: "bs-searchbox"
-	  }, [_vm._h('input', {
+	  }, [_c('input', {
 	    directives: [{
 	      name: "model",
 	      rawName: "v-model",
@@ -7547,7 +7547,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    },
 	    on: {
 	      "keyup": function($event) {
-	        if ($event.keyCode !== 27) { return; }
+	        if (_vm._k($event.keyCode, "esc", 27)) { return; }
 	        _vm.show = false
 	      },
 	      "input": function($event) {
@@ -7555,7 +7555,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.searchValue = $event.target.value
 	      }
 	    }
-	  }), " ", _vm._h('span', {
+	  }), _vm._v(" "), _c('span', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -7566,30 +7566,30 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.clearSearch
 	    }
-	  }, ["×"])]) : _vm._e(), " ", (_vm.required && !_vm.clearButton) ? _vm._h('li', [_vm._h('a', {
+	  }, [_vm._v("×")])]) : _vm._e(), _vm._v(" "), (_vm.required && !_vm.clearButton) ? _c('li', [_c('a', {
 	    on: {
 	      "mousedown": function($event) {
 	        $event.preventDefault();
 	        _vm.clear() && _vm.blur()
 	      }
 	    }
-	  }, [_vm._s(_vm.placeholder || _vm.text.notSelected)])]) : _vm._e(), " ", _vm._l((_vm.filteredOptions), function(option) {
-	    return _vm._h('li', {
+	  }, [_vm._v(_vm._s(_vm.placeholder || _vm.text.notSelected))])]) : _vm._e(), _vm._v(" "), _vm._l((_vm.filteredOptions), function(option) {
+	    return _c('li', {
 	      attrs: {
 	        "id": option[_vm.optionsValue]
 	      }
-	    }, [_vm._h('a', {
+	    }, [_c('a', {
 	      on: {
 	        "mousedown": function($event) {
 	          $event.preventDefault();
 	          _vm.select(option[_vm.optionsValue])
 	        }
 	      }
-	    }, [_vm._h('span', {
+	    }, [_c('span', {
 	      domProps: {
 	        "innerHTML": _vm._s(option[_vm.optionsLabel])
 	      }
-	    }), " ", _vm._h('span', {
+	    }), _vm._v(" "), _c('span', {
 	      directives: [{
 	        name: "show",
 	        rawName: "v-show",
@@ -7598,24 +7598,24 @@ return /******/ (function(modules) { // webpackBootstrap
 	      }],
 	      staticClass: "glyphicon glyphicon-ok check-mark"
 	    })])])
-	  })] : _vm._e(), " ", _vm._t("default"), " ", (_vm.notify && !_vm.closeOnSelect) ? _vm._h('transition', {
+	  })] : _vm._e(), _vm._v(" "), _vm._t("default"), _vm._v(" "), (_vm.notify && !_vm.closeOnSelect) ? _c('transition', {
 	    attrs: {
 	      "name": "fadein"
 	    }
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "notify in"
-	  }, [_vm._s(_vm.limitText)])]) : _vm._e()]), " ", (_vm.notify && _vm.closeOnSelect) ? _vm._h('transition', {
+	  }, [_vm._v(_vm._s(_vm.limitText))])]) : _vm._e()], true), _vm._v(" "), (_vm.notify && _vm.closeOnSelect) ? _c('transition', {
 	    attrs: {
 	      "name": "fadein"
 	    }
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "notify out"
-	  }, [_vm._h('div', [_vm._s(_vm.limitText)])])]) : _vm._e(), " "])
+	  }, [_c('div', [_vm._v(_vm._s(_vm.limitText))])])]) : _vm._e(), _vm._v(" ")])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-e514dbc6", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-6379ccc2", module.exports)
 	  }
 	}
 
@@ -7642,7 +7642,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Slider.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Slider.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -7653,9 +7653,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-32185b82", __vue_options__)
+	    hotAPI.createRecord("data-v-72e5e304", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-32185b82", __vue_options__)
+	    hotAPI.reload("data-v-72e5e304", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Slider.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -7708,15 +7708,15 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 159 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    staticClass: "item"
-	  }, [_vm._t("default")])
+	  }, [_vm._t("default")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-32185b82", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-72e5e304", module.exports)
 	  }
 	}
 
@@ -7746,7 +7746,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Spinner.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Spinner.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -7757,9 +7757,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-8b298e70", __vue_options__)
+	    hotAPI.createRecord("data-v-d962bcf4", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-8b298e70", __vue_options__)
+	    hotAPI.reload("data-v-d962bcf4", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Spinner.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -7783,8 +7783,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-8b298e70!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Spinner.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-8b298e70!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Spinner.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-d962bcf4!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Spinner.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-d962bcf4!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Spinner.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -7926,8 +7926,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 164 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    directives: [{
 	      name: "show",
 	      rawName: "v-show",
@@ -7937,18 +7937,18 @@ return /******/ (function(modules) { // webpackBootstrap
 	    class: ['spinner spinner-gritcode', _vm.spinnerSize, {
 	      'spinner-fixed': _vm.fixed
 	    }]
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "spinner-wrapper"
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "spinner-circle"
-	  }), " ", _vm._h('div', {
+	  }), _vm._v(" "), _c('div', {
 	    staticClass: "spinner-text"
-	  }, [_vm._s(_vm.text)])])])
+	  }, [_vm._v(_vm._s(_vm.text))])])])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-8b298e70", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-d962bcf4", module.exports)
 	  }
 	}
 
@@ -7975,7 +7975,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Tab.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Tab.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -7986,9 +7986,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-0985e878", __vue_options__)
+	    hotAPI.createRecord("data-v-253e8382", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-0985e878", __vue_options__)
+	    hotAPI.reload("data-v-253e8382", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Tab.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -8091,8 +8091,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 167 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    ref: "panel",
 	    class: ['tab-pane', {
 	      'active fade': _vm.active,
@@ -8101,12 +8101,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	    attrs: {
 	      "role": "tabpanel"
 	    }
-	  }, [_vm._t("default")])
+	  }, [_vm._t("default")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-0985e878", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-253e8382", module.exports)
 	  }
 	}
 
@@ -8136,7 +8136,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\TabGroup.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\TabGroup.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -8147,9 +8147,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-55faf3cb", __vue_options__)
+	    hotAPI.createRecord("data-v-ccf6ba66", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-55faf3cb", __vue_options__)
+	    hotAPI.reload("data-v-ccf6ba66", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] TabGroup.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -8173,8 +8173,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-55faf3cb!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./TabGroup.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-55faf3cb!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./TabGroup.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-ccf6ba66!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./TabGroup.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-ccf6ba66!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./TabGroup.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -8249,13 +8249,13 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 172 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('span', [_vm._t("default")])
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('span', [_vm._t("default")], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-55faf3cb", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-ccf6ba66", module.exports)
 	  }
 	}
 
@@ -8285,7 +8285,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Tabs.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Tabs.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -8296,9 +8296,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-70100ddf", __vue_options__)
+	    hotAPI.createRecord("data-v-f384e43e", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-70100ddf", __vue_options__)
+	    hotAPI.reload("data-v-f384e43e", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Tabs.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -8322,8 +8322,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-70100ddf!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Tabs.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-70100ddf!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Tabs.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-f384e43e!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Tabs.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-f384e43e!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Tabs.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -8436,18 +8436,18 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 177 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    attrs: {
 	      "tabs": ""
 	    }
-	  }, [_vm._h('ul', {
+	  }, [_c('ul', {
 	    class: _vm.navStyleClass,
 	    attrs: {
 	      "role": "tablist"
 	    }
 	  }, [_vm._l((_vm.headers), function(header) {
-	    return [(header._isTab) ? _vm._h('li', {
+	    return [(header._isTab) ? _c('li', {
 	      class: {
 	        active: header.active, disabled: header.disabled
 	      },
@@ -8457,14 +8457,14 @@ return /******/ (function(modules) { // webpackBootstrap
 	          _vm.select(header)
 	        }
 	      }
-	    }, [_vm._t("header", [_vm._h('a', {
+	    }, [_vm._t("header", [_c('a', {
 	      attrs: {
 	        "href": "#"
 	      },
 	      domProps: {
 	        "innerHTML": _vm._s(header.header)
 	      }
-	    })])]) : _vm._e(), " ", (header._isTabGroup) ? _vm._h('dropdown', {
+	    })])], true) : _vm._e(), _vm._v(" "), (header._isTabGroup) ? _c('dropdown', {
 	      class: {
 	        active: header.active
 	      },
@@ -8472,12 +8472,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	        "text": header.header,
 	        "disabled": header.disabled
 	      }
-	    }, [_vm._l((header.tabs), function(tab) {
-	      return _vm._h('li', {
+	    }, _vm._l((header.tabs), function(tab) {
+	      return _c('li', {
 	        class: {
 	          disabled: tab.disabled
 	        }
-	      }, [_vm._h('a', {
+	      }, [_c('a', {
 	        attrs: {
 	          "href": "#"
 	        },
@@ -8487,16 +8487,16 @@ return /******/ (function(modules) { // webpackBootstrap
 	            _vm.select(tab)
 	          }
 	        }
-	      }, [_vm._s(tab.header)])])
-	    })]) : _vm._e()]
-	  })]), " ", _vm._h('div', {
+	      }, [_vm._v(_vm._s(tab.header))])])
+	    })) : _vm._e()]
+	  })], true), _vm._v(" "), _c('div', {
 	    staticClass: "tab-content"
-	  }, [_vm._t("default")])])
+	  }, [_vm._t("default")], true)])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-70100ddf", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-f384e43e", module.exports)
 	  }
 	}
 
@@ -8523,7 +8523,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\ToggleButton.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\ToggleButton.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -8534,9 +8534,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-f034a5f2", __vue_options__)
+	    hotAPI.createRecord("data-v-fdc7e9ee", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-f034a5f2", __vue_options__)
+	    hotAPI.reload("data-v-fdc7e9ee", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] ToggleButton.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -8609,8 +8609,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 180 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('a', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('a', {
 	    class: ['btn', _vm.type],
 	    attrs: {
 	      "href": "javascript:void(0)"
@@ -8620,9 +8620,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.active = !_vm.active
 	      }
 	    }
-	  }, [_vm._h('span', {
+	  }, [_c('span', {
 	    class: ['glyphicon', 'glyphicon-' + (_vm.value ? 'ok' : 'remove')]
-	  }), " ", _vm._t("default"), " ", (_vm.name) ? _vm._h('input', {
+	  }), _vm._v(" "), _vm._t("default"), _vm._v(" "), (_vm.name) ? _c('input', {
 	    attrs: {
 	      "type": "hidden",
 	      "name": _vm.name
@@ -8630,12 +8630,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	    domProps: {
 	      "value": _vm.active ? 1 : 0
 	    }
-	  }) : _vm._e()])
+	  }) : _vm._e()], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-f034a5f2", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-fdc7e9ee", module.exports)
 	  }
 	}
 
@@ -8665,7 +8665,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Tooltip.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Tooltip.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -8676,9 +8676,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-48fb51b2", __vue_options__)
+	    hotAPI.createRecord("data-v-21deba70", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-48fb51b2", __vue_options__)
+	    hotAPI.reload("data-v-21deba70", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Tooltip.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -8702,8 +8702,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-48fb51b2!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Tooltip.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-48fb51b2!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Tooltip.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-21deba70!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Tooltip.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-21deba70!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Tooltip.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -8765,29 +8765,29 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 185 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('span', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('span', {
 	    ref: "trigger"
-	  }, [_vm._t("default"), " ", _vm._h('transition', {
+	  }, [_vm._t("default"), _vm._v(" "), _c('transition', {
 	    attrs: {
 	      "name": _vm.effect
 	    }
-	  }, [(_vm.show) ? _vm._h('div', {
+	  }, [(_vm.show) ? _c('div', {
 	    ref: "popover",
 	    class: ['tooltip', _vm.placement],
 	    staticStyle: {
 	      "display": "block"
 	    }
-	  }, [_vm._h('div', {
+	  }, [_c('div', {
 	    staticClass: "tooltip-arrow"
-	  }), " ", _vm._h('div', {
+	  }), _vm._v(" "), _c('div', {
 	    staticClass: "tooltip-inner"
-	  }, [_vm._t("content")])]) : _vm._e()])])
+	  }, [_vm._t("content")], true)]) : _vm._e()])], true)
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-48fb51b2", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-21deba70", module.exports)
 	  }
 	}
 
@@ -8817,7 +8817,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "C:\\laragon\\www\\vue-strap\\src\\Typeahead.vue"
+	__vue_options__.__file = "E:\\fork-repo\\vue-strap\\src\\Typeahead.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -8828,9 +8828,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-5b5f5e94", __vue_options__)
+	    hotAPI.createRecord("data-v-0006fc18", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-5b5f5e94", __vue_options__)
+	    hotAPI.reload("data-v-0006fc18", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] Typeahead.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -8854,8 +8854,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-5b5f5e94!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Typeahead.vue", function() {
-				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-5b5f5e94!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Typeahead.vue");
+			module.hot.accept("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-0006fc18!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Typeahead.vue", function() {
+				var newContent = require("!!./../node_modules/css-loader/index.js?sourceMap!./../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-0006fc18!./../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./Typeahead.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -9490,15 +9490,15 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 205 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;
-	  return _vm._h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    class: {
 	      'open': _vm.showDropdown
 	    },
 	    staticStyle: {
 	      "position": "relative"
 	    }
-	  }, [_vm._h('input', {
+	  }, [_c('input', {
 	    directives: [{
 	      name: "model",
 	      rawName: "v-model",
@@ -9519,16 +9519,16 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.showDropdown = false
 	      },
 	      "keydown": [function($event) {
-	        if ($event.keyCode !== 40) { return; }
+	        if (_vm._k($event.keyCode, "down", 40)) { return; }
 	        _vm.down($event)
 	      }, function($event) {
-	        if ($event.keyCode !== 13) { return; }
+	        if (_vm._k($event.keyCode, "enter", 13)) { return; }
 	        _vm.hit($event)
 	      }, function($event) {
-	        if ($event.keyCode !== 27) { return; }
+	        if (_vm._k($event.keyCode, "esc", 27)) { return; }
 	        _vm.reset($event)
 	      }, function($event) {
-	        if ($event.keyCode !== 38) { return; }
+	        if (_vm._k($event.keyCode, "up", 38)) { return; }
 	        _vm.up($event)
 	      }],
 	      "input": function($event) {
@@ -9536,15 +9536,15 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.val = $event.target.value
 	      }
 	    }
-	  }), " ", _vm._h('ul', {
+	  }), _vm._v(" "), _c('ul', {
 	    ref: "dropdown",
 	    staticClass: "dropdown-menu"
-	  }, [_vm._l((_vm.items), function(item, i) {
-	    return _vm._h('li', {
+	  }, _vm._l((_vm.items), function(item, i) {
+	    return _c('li', {
 	      class: {
 	        'active': _vm.isActive(i)
 	      }
-	    }, [_vm._h('a', {
+	    }, [_c('a', {
 	      on: {
 	        "mousedown": function($event) {
 	          $event.preventDefault();
@@ -9554,18 +9554,18 @@ return /******/ (function(modules) { // webpackBootstrap
 	          _vm.setActive(i)
 	        }
 	      }
-	    }, [_vm._h(_vm.tmpl, {
+	    }, [_c(_vm.tmpl, {
 	      tag: "component",
 	      attrs: {
 	        "item": item
 	      }
 	    })])])
-	  })])])
+	  }))])
 	},staticRenderFns: []}
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-5b5f5e94", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-0006fc18", module.exports)
 	  }
 	}
 
